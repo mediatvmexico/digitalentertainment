@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2015/05/LOGO-RCG-TV-7-1.png" group-title="MEXICO",RCG 1 BC-SD
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="MEXICO",RCG 3 BC-SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.bus-k.me/file/pic/listing/2012/10/9cdcbbd5078fa9daf9df8b471f2411bf.png" group-title="MEXICO",Ocho TV | FHD Guadalajara
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://images.viaway.com/6798977_180.png" group-title="MEXICO", TV Mas | HD Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vercanalestv.com/logos/antena3.png" group-title="PRINCIPALES",ANTENA 3 (SD)
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8

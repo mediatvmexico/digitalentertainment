@@ -10,6 +10,3 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://images.viaway.com/6798977_180.png" group-title="MEXICO", TV Mas | HD Veracruz
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://vercanalestv.com/logos/antena3.png" group-title="PRINCIPALES",ANTENA 3 (SD)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8

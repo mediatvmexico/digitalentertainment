@@ -1,36 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="SERVIDOR - MX",Telemundo | HD
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="SERVIDOR MX",Telemundo | HD
 http://bit.ly/telemundohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="SERVIDOR - MX",Las Estrellas | HD
+#EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="SERVIDOR MX",Las Estrellas | HD
 http://bit.ly/lasestrellashd_x_mediatvmexico
 
-#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4a/ForoTV_HD_2016.png/revision/latest/scale-to-width-down/200?cb=20160315021422" group-title="SERVIDOR - MX",Foro TV | HD
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4a/ForoTV_HD_2016.png/revision/latest/scale-to-width-down/200?cb=20160315021422" group-title="SERVIDOR MX",Foro TV | HD
 http://bit.ly/forotvhd_x_mediatvmexico
 
-#EXTINF:1 type="stream" channelId="293" tvg-logo="http://mexicali.ccp.org.mx/wp-content/uploads/sites/10/2016/11/efektotv-peque.jpg" group-title="SERVIDOR - MX",Efekto TV | HD
+#EXTINF:1 type="stream" channelId="293" tvg-logo="http://mexicali.ccp.org.mx/wp-content/uploads/sites/10/2016/11/efektotv-peque.jpg" group-title="SERVIDOR MX",Efekto TV | HD
 http://bit.ly/efektotvhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="SERVIDOR - MX",Deutsche Welle En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="SERVIDOR MX",Deutsche Welle En Español | HD
 http://bit.ly/deutschewellehd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="SERVIDOR - MX",China Global En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="SERVIDOR MX",China Global En Español | HD
 http://bit.ly/chinaglobalhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="SERVIDOR - MX",RT En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="SERVIDOR MX",RT En Español | HD
 http://bit.ly/rthd_x_mediatvmexico
 
-#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="SERVIDOR - MX",HISPANTV En Español | HD
+#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="SERVIDOR MX",HISPANTV En Español | HD
 http://bit.ly/hispantvhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://ulango.tv/uploads/channels/11607/logo_sun%20channel1.png" group-title="SERVIDOR - MX",Sun Channel En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://ulango.tv/uploads/channels/11607/logo_sun%20channel1.png" group-title="SERVIDOR MX",Sun Channel En Español | HD
 http://bit.ly/sunchannelhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://promocionestigohn.com/saatchihn/tigo/landing-pages/2016/01-enero/refresh-tigo-smart/images/footer-02-logo-tigo-music.png" group-title="SERVIDOR - MX",Tigo Music | HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://promocionestigohn.com/saatchihn/tigo/landing-pages/2016/01-enero/refresh-tigo-smart/images/footer-02-logo-tigo-music.png" group-title="SERVIDOR MX",Tigo Music | HD
+http://bit.ly/tigomusichd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="SERVIDOR - MX",Real Madrid TV | HD
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="SERVIDOR MX",Real Madrid TV | HD
+http://bit.ly/realmadridtvhd_x_mediatvmexico
+
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Sports.png" group-title="SERVIDOR MX",PX SPORTS (S10)
+http://bit.ly/pxsportshd_x_mediatvmexico
+
+#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png"  group-title="SERVIDOR MX",CLARO SPORTS (S10)
+http://bit.ly/clarosportshd_x_mediatvmexico
+
 
 #EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/211.png" group-title="SERVIDOR #9", SyFy
 http://www.iptvmexico.xyz/pony2/211.m3u8

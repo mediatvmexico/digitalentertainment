@@ -35,71 +35,125 @@ http://bit.ly/realmadridtvhd_x_mediatvmexico
 #EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Sports.png" group-title="SERVIDOR MX",PX SPORTS (S10)
 http://bit.ly/pxsportshd_x_mediatvmexico
 
-#EXTINF:-1 tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/2757a11d-1590-4f41-905a-e097b8185c1e-Internacional-Claro-Sports.png"  group-title="SERVIDOR MX",CLARO SPORTS (S10)
-http://bit.ly/clarosportshd_x_mediatvmexico
+
+#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== SERVER 5-15 ==== =============================================================
+#EXTBG: #008080
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/3c3c222f1519f011e9f8de3e71234caf" group-title="SERVER #5-15",BEIN LA LIGA 1 | (S5)
+http://82.192.80.197:8088/stream/dfdcmjj5d/playlist.m3u8?id=2532&wowzasessionid=248504321&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/0c900569a0ee2d1c496b6f4dd06a1ac7" group-title="SERVER #5-15",MOVISTAR PARTIDAZO (BEIN LA LIGA 2) | (S5)
+http://178.162.199.138:8088/stream/dfdcmjj5d/playlist.m3u8?id=2532&wowzasessionid=7396228848&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ff1baa710cdc97cb203f926553f284f1" group-title="SERVER #5-15",BEIN LA LIGA 3 | (S8)
+http://178.162.199.138:8088/stream/dfdcmjj5d/playlist.m3u8?id=2532&wowzasessionid=593277453&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ea61ba15f2893789918a4474b38a3c3e" group-title="SERVER #5-15",BEIN LA LIGA 4 | (S8)
+http://178.162.199.138:8088/stream/dfdcmjj5d/playlist.m3u8?id=2532&wowzasessionid=495981359&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="SERVER #5-15",MOVISTAR FUTBOL | (S13)
+http://178.162.199.73:8088/live/rtbtbb4/playlist.m3u8?id=97891&wowzasessionid=3882809557&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="SERVER #5-15",FOX SPORTS | (S15)
+http://102.mipsplayer.net:8088/adfree/foxsportsfc/playlist.m3u8?id=267621&wowzasessionid=3131690044&pk=32b6b4ed14c47e08d98b58f4169966ca22b990b3b5c2d19c0564b2abe6b0e53b
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="SERVER #5-15",FOX SPORTS | (S15) **** CANAL 2 ****
+http://102.mipsplayer.net:8088/adfree/foxsportsfc/playlist.m3u8?id=267621&wowzasessionid=3666146583&pk=32b6b4ed14c47e08d98b58f4169966ca22b990b3b5c2d19c0564b2abe6b0e53b
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="SERVER #5-15",FOX SPORT 2 | (S8)
+http://95.211.186.223:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=3561939511&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/tsBxDxY.png" group-title="SERVER #5-15",FOX SPORTS 3 | (S8)
+http://95.211.210.100:8088/stream/sports3palacios/playlist.m3u8?id=7884&wowzasessionid=7841577160&pk=32b6b4ed14c47e08d98b58f4169966ca22b990b3b5c2d19c0564b2abe6b0e53b
+
+#EXTINF:-1 type="stream" tvg-logo="http://s3.amazonaws.com/freebiesupply/large/2x/espn-logo-transparent.png" group-title="SERVER #5-15",ESPN | (S15)
+http://103.mipsplayer.net:8088/adfree/espnhdd/playlist.m3u8?id=267662&wowzasessionid=157135503&pk=32b6b4ed14c47e08d98b58f4169966ca22b990b3b5c2d19c0564b2abe6b0e53b
+
+#EXTINF:-1 type="stream" tvg-logo="http://s3.amazonaws.com/freebiesupply/large/2x/espn-logo-transparent.png" group-title="SERVER #5-15",ESPN | (S15) **** CANAL 2 ****
+http://101.mipsplayer.net:8088/adfree/espnhdd/playlist.m3u8?id=267662&wowzasessionid=3948714011&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="SERVER #5-15",ESPN2 | (S15)
+http://103.mipsplayer.net:8088/adfree/espn2fc/playlist.m3u8?id=267620&wowzasessionid=436686069&pk=32b6b4ed14c47e08d98b58f4169966ca22b990b3b5c2d19c0564b2abe6b0e53b
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.maxxsouth.com/wp-content/uploads/2016/03/logo-espn3.png" group-title="SERVER #5-15",ESPN3 | (S15)
+http://103.mipsplayer.net:8088/adfree/foxdeporte2/playlist.m3u8?id=267660&wowzasessionid=3377048376&pk=32b6b4ed14c47e08d98b58f4169966ca22b990b3b5c2d19c0564b2abe6b0e53b
 
 
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/211.png" group-title="SERVIDOR #9", SyFy
-http://www.iptvmexico.xyz/pony2/211.m3u8
+#EXTINF:-1 tvg-logo="http://pxsports.com/wp-content/uploads/2017/01/PX-Sports.png" group-title="SERVER #5-15",PX SPORTS | (S10)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/31.png" group-title="SERVIDOR #9", TNT
-http://www.iptvmexico.xyz/pony2/31.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_%282017%29_II.png/revision/latest?cb=20171003155024" group-title="SERVER #5-15",TNT SPORTS (S15)
+http://101.mipsplayer.net:8088/adfree/tntdeportes/playlist.m3u8?id=267668&wowzasessionid=761020638&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/324.png" group-title="SERVIDOR #9", AE HD
-http://www.iptvmexico.xyz/pony2/221.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/2007.png" group-title="SERVIDOR #9", Atreseries
-http://www.iptvmexico.xyz/pony2/1533.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/181.png" group-title="SERVIDOR #9", Distrito Comedia
-http://www.iptvmexico.xyz/pony2/181.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/327.png" group-title="SERVIDOR #9", Warner HD (Dual)
-http://www.iptvmexico.xyz/pony2/327.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/351.png" group-title="SERVIDOR #9", History
-http://www.iptvmexico.xyz/pony2/351.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/2034.png" group-title="SERVIDOR #9", Sun Channel
-http://www.iptvmexico.xyz/pony2/2034.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300" group-title="SERVIDOR #9", Niu Media
-http://www.iptvmexico.xyz/pony2/2080.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/965.png" group-title="SERVIDOR #9", Anime TV
-http://www.iptvmexico.xyz/pony2/965.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/2022.png" group-title="SERVIDOR #9", Locomotion
-http://www.iptvmexico.xyz/pony2/2022.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/222.png" group-title="SERVIDOR #9", Nick Jr
-http://www.iptvmexico.xyz/pony2/222.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/310.png" group-title="SERVIDOR #9", NickToons
-http://www.iptvmexico.xyz/pony2/310.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvmexico.xyz/logos/png/208.png" group-title="SERVIDOR #9", TIIN
-http://www.iptvmexico.xyz/pony2/208.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="SERVER #5-15",CARACOL (SD) | (S5)
+https://live9.userapi.com/639912/live/MgxNA89FetNpysoc/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/5/56/Caracol_logo.png/revision/latest?cb=20171009020607" group-title="SERVIDOR - SPAIN",CARACOL (SD) (S5)
-https://live3.userapi.com/613503/live/PPe2DSNFej9RTFwF/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== SERVER 11-2 - BC ==== =========================================================
+#EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="SERVIDOR #5",MOVISTAR FUTBOL (S5)
-http://178.162.199.73:8088/live/gghvbcd/playlist.m3u8?id=97357&wowzasessionid=3981344353&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1163_2_22008.png" group-title="SERVER 11-2 - BC",WARNER
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-rAHjeQQtftE/UyPJ_1IZTcI/AAAAAAAAD98/5qRVEIGGU4A/s1600/tnt+hd+online.png" group-title="SERVER 11-2 - BC",TNT
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://famfonts.com/wp-content/uploads/espn-wide.png" group-title="SERVIDOR #8",ESPN (SD)(S8)
-http://62.212.82.87:8088/stream/espn1palacios/playlist.m3u8?id=7880&wowzasessionid=400427848&pk=bc28b5ae614fd5c6cb3e7e9619b5cd6502d4b38e6a511b8981f615b74d2fb149
+#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="SERVER 11-2 - BC",HBO
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="SERVIDOR #8",ESPN 2 (ESPN+) (BC)(S8)
-http://62.212.82.77:8088/stream/espn2gladys/playlist.m3u8?id=7608&wowzasessionid=928310955&pk=bc28b5ae614fd5c6cb3e7e9619b5cd6502d4b38e6a511b8981f615b74d2fb149
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/6/62/TLNovelas_2011.png/revision/latest?cb=20130903004018&path-prefix=es" group-title="SERVER 11-2 - BC",TLNOVELAS
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="SERVIDOR #8",FOX SPORTS (S8)
-http://178.162.199.155:8088/live/sports1aliciapu/playlist.m3u8?id=97342&wowzasessionid=639880266&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="SERVER 11-2 - BC",ANIMAL PLANET
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="SERVIDOR #8",FOX SPORT 2 (BC)(S8)
-http://62.212.82.87:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=787334188&pk=bc28b5ae614fd5c6cb3e7e9619b5cd6502d4b38e6a511b8981f615b74d2fb149
+#EXTINF:-1 tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2016/02/TCM_logo.png" group-title="SERVER 11-2 - BC",TCM
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(TCM)/Stream(01)/index.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/tsBxDxY.png" group-title="SERVIDOR #8",FOX SPORTS 3 (BC)(S8)
-http://62.212.82.77:8088/stream/sports3palacios/playlist.m3u8?id=7884&wowzasessionid=14374874&pk=bc28b5ae614fd5c6cb3e7e9619b5cd6502d4b38e6a511b8981f615b74d2fb149
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_8435_7_34621.png" group-title="SERVER 11-2 - BC",FILM ZONE
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/paramount-channel.png" group-title="SERVER 11-2 - BC",PARAMOUNT CHANNEL
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="SERVER 11-2 - BC",AXN
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/871211/logo_e!%20entertainment%20tv.png" group-title="SERVER 11-2 - BC",E!
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(E)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/1/15/TVE_bug.png/revision/latest?cb=20171106035143" group-title="SERVER 11-2 - BC",TVE
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(TVE)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/monthly_2016_07/large.1.png.b3cf6d5b11a5fd066478160bf7ccbde0.png" group-title="SERVER 11-2 - BC",INVESTIGATION DISCOVERY
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="SERVER 11-2 - BC",DISCOVERY SCIENCE
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5649_2_31784.png" group-title="SERVER 11-2 - BC",DISCOVERY TURBO
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.corusent.com/wp-content/uploads/2016/03/History_Logo_2015_4C_Black_type.png" group-title="SERVER 11-2 - BC",HISTORY CHANNEL
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_5610_2_9848.png" group-title="SERVER 11-2 - BC",H2
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(H2)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/cartoons/images/e/e5/Disney_XD_Logo.png/revision/latest?cb=20090103000918" group-title="SERVER 11-2 - BC",DISNEY XD
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.auditionsfinder.com/wp-content/uploads/2012/02/mtv-logo-2.gif" group-title="SERVER 11-2 - BC",MTV
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(MTV_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/mtvhits.png" group-title="SERVER 11-2 - BC",MTV HITS
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(MTV_HITS)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/ce/Video_Hits_One_HD.png/revision/latest?cb=20110408023054" group-title="SERVER 11-2 - BC",VH1
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(VH1)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/dreamlogos/images/6/64/VH1_Classic_Europe.png/revision/latest?cb=20170331122842" group-title="SERVER 11-2 - BC",VH1 CLASSIC
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.vimeocdn.com/portfolio_header/331505" group-title="SERVER 11-2 - BC",EUROCHANNEL (DUAL)
+http://colivechannelshls.clarovideo.com/Content/hls/Live/Channel(EUROCHANNEL)/Stream(01)/index.m3u8

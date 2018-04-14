@@ -1,143 +1,215 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== SERVER MX ==== =============================================================
+#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="SERVER MX",Telemundo | HD
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="Media TV || Gold",Telemundo | HD
 http://bit.ly/telemundohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="SERVER MX",Las Estrellas | HD
+#EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Media TV || Gold",Las Estrellas | HD
 http://bit.ly/lasestrellashd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="SERVER MX",Deutsche Welle En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="Media TV || Gold",Deutsche Welle En Español | HD
 http://bit.ly/deutschewellehd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="SERVER MX",China Global En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="Media TV || Gold",China Global En Español | HD
 http://bit.ly/chinaglobalhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="SERVER MX",Russia Today En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="Media TV || Gold",Russia Today En Español | HD
 http://bit.ly/rthd_x_mediatvmexico
 
-#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="SERVER MX",HISPANTV En Español | HD
+#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="Media TV || Gold",HISPANTV En Español | HD
 http://bit.ly/hispantvhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="SERVER MX",Real Madrid TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="Media TV || Gold",Real Madrid TV | HD
 http://bit.ly/realmadridtvhd_x_mediatvmexico
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.tdcan.es/imagenes/canales/cuatro_hd.png" group-title="SERVER MX",Cuatro | HD
+#EXTINF:-1 type="stream" tvg-logo="http://www.tdcan.es/imagenes/canales/cuatro_hd.png" group-title="Media TV || Gold",Cuatro | HD
 http://bit.ly/cuatrohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://kal-images.ono.es/app_posters/205c230554f143698840d5228a7b9924_302X170.png" group-title="SERVER MX", Telecinco | HD
+#EXTINF:-1 type="stream" tvg-logo="http://kal-images.ono.es/app_posters/205c230554f143698840d5228a7b9924_302X170.png" group-title="Media TV || Gold", Telecinco | HD
 http://bit.ly/telecincohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://poptv.images.staging.s3.amazonaws.com/uploads/image/image/30/PopTv-Logo300.png" group-title="SERVER MX",Pop TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://poptv.images.staging.s3.amazonaws.com/uploads/image/image/30/PopTv-Logo300.png" group-title="Media TV || Gold",Pop TV | HD
 http://bit.ly/tvpophd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/he2I1tUvFo0f5J8BXPeEVCiBKTSqIn-6XICkb-RuWTMfJWXr0AGAdswLwQmMtUcq2xg=h310" group-title="SERVER MX",Latinos Up! TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/he2I1tUvFo0f5J8BXPeEVCiBKTSqIn-6XICkb-RuWTMfJWXr0AGAdswLwQmMtUcq2xg=h310" group-title="Media TV || Gold",Up! TV | HD
 http://bit.ly/uplatinohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://3.bp.blogspot.com/_HuzhnbX6a_4/TSh9gkm1KGI/AAAAAAAAAGU/XdmuEa-sdaw/s1600/toplatino.jpg" group-title="SERVER MX",Top Latino TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://3.bp.blogspot.com/_HuzhnbX6a_4/TSh9gkm1KGI/AAAAAAAAAGU/XdmuEa-sdaw/s1600/toplatino.jpg" group-title="Media TV || Gold",Top Latino TV | HD
 http://bit.ly/toplatinohd_x_mediatvmexico
 
 
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="SERVER MX",Mexico Travel (SO)
+#EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="Media TV || Gold",Mexico Travel (SO)
 http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/4f7022a6df2793f43b609fb43560ea04" group-title="SERVER MX",Euronews (SO)
-http://euronews-es-b7-cdn.hexaglobe.net/e79ce4619aeacc7f46ecd76b0689f8ff/5ac9a2ac/euronews/euronews-euronews-website-web-responsive-2/ewnsabresbkp_spa.smil/ewnsabresbkp_spa_540p.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/4f7022a6df2793f43b609fb43560ea04" group-title="Media TV || Gold",Euronews (SO)
+http://euronews-es-p2-cdn.hexaglobe.net/b6087111ff159a8f64ed7cfb47d0dbff/5ad15570/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_360p.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== SERVER 5-17 ==== =============================================================
+#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="SERVER #5-21",CARACOL (SD) (S5)
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/1fe1bd11297a67461515d23835b0855f" group-title="Media TV || Gold",CANAL SUR ANDALUCIA (S4)
+https://www.youtube.com/watch?v=8NxMdfHreT4
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/9c6c2a93a9ea6900c40cc5543d93eecc" group-title="Media TV || Gold",ANDALUCIA TV (S4)
+https://www.youtube.com/watch?v=Onr6GUP_d8Q
+
+
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) (S5)
 https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
 
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="Media TV || Gold",LA 1 (S13)*
+http://178.162.199.138:8088/stream/tvve11/playlist.m3u8?id=2698&wowzasessionid=3192169805&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="SERVER #5-21",FOX SPORTS (S8)
-http://62.212.82.87:8088/live/sports1chamo/playlist.m3u8?id=97839&wowzasessionid=3759624025&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="Media TV || Gold",LA 1 (S17)
+http://178.162.199.131:8088/stream/tve111g/playlist.m3u8?id=2189&wowzasessionid=446865093&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="SERVER #5-21",FOX SPORT 2 | (S8)
+
+#EXTINF:-1 type="stream" tvg-logo="http://peru.mom-rsf.org/uploads/tx_lfrogmom/media/2037-205_import.png" group-title="Media TV || Gold",LATINA TV
+http://101.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=591768161&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d71e2a67875e4c9d41418d548d74a1bb" group-title="Media TV || Gold",FDF (S17)*
+http://95.211.210.100:8088/stream/fdfddf/playlist.m3u8?id=2185&wowzasessionid=088592874&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/cffada6262de59de1c334cfb7809aa60" group-title="Media TV || Gold",#0 (S17)
+http://178.162.199.137:8088/stream/000LK/playlist.m3u8?id=2187&wowzasessionid=3586817794&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORT 2 | SD (S8)
+http://154.16.149.86:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=3108720195&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORT 2 | SD (8AB18) (S8) ----------------------------------------------------------------------------------------------------------------------------------------------
 http://154.16.149.150:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=154531136&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 tvg-logo="http://famfonts.com/wp-content/uploads/espn-wide.png" group-title="SERVER #5-21",ESPN (SD)(S8)
-http://178.162.199.138:8088/live/espinacapopeye2/playlist.m3u8?id=97545&wowzasessionid=3052782315&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+#EXTINF:-1 tvg-logo="http://famfonts.com/wp-content/uploads/espn-wide.png" group-title="Media TV || Gold",ESPN | SD (S8)
+http://95.211.210.100:8088/live/espinacapopeye2/playlist.m3u8?id=97545&wowzasessionid=3849960183&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="SERVER #5-21",ESPN 2 (ESPN+) (SD)(S8)
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="Media TV || Gold",ESPN 2 | SD (ESPN+) (S8)
+http://154.16.149.150:8088/stream/espn2gladys/playlist.m3u8?id=7608&wowzasessionid=066264694&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="Media TV || Gold",ESPN 2 | SD (ESPN+) (8AB18) (SD)(S8) ---------------------------------------------------------------------------------------------------------------------------------------
 http://154.16.149.150:8088/stream/espn2gladys/playlist.m3u8?id=7608&wowzasessionid=565619412&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="SERVER #5-21",LA 1 (Zona 1) (S13)*
-http://178.162.199.131:8088/stream/tve111g/playlist.m3u8?id=2189&wowzasessionid=3702398242&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="SERVER #5-21",LA 1 (Zona 2) (S17)
-http://178.162.199.131:8088/stream/tve111g/playlist.m3u8?id=2189&wowzasessionid=446865093&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d71e2a67875e4c9d41418d548d74a1bb" group-title="SERVER #5-21",FDF 1 (S13)*
-http://178.162.199.131:8088/stream/fdfddf/playlist.m3u8?id=2185&wowzasessionid=3642370953&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d71e2a67875e4c9d41418d548d74a1bb" group-title="SERVER #5-21",FDF 2 (S17)*
-http://178.162.199.25:8088/stream/fdfddf/playlist.m3u8?id=2185&wowzasessionid=3725208441&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="SERVER #5-21",MOVISTAR FUTBOL 1 (S13)
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="Media TV || Gold",MOVISTAR FUTBOL | (S13)
 http://95.211.147.97:8088/live/lugolugo/playlist.m3u8?id=98317&wowzasessionid=080472346&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="SERVER #5-21",MOVISTAR FUTBOL 2 (S17)
-http://62.212.82.77:8088/live/lugolugo/playlist.m3u8?id=98317&wowzasessionid=3748317827&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_%282017%29_II.png/revision/latest?cb=20171003155024" group-title="SERVER #5-21",TNT SPORTS (S15)
-http://101.mipsplayer.net:8088/adfree/tntsporte/playlist.m3u8?id=267904&wowzasessionid=935322238&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_%282017%29_II.png/revision/latest?cb=20171003155024" group-title="Media TV || Gold",TNT SPORTS (S15)
+http://102.mipsplayer.net:8088/adfree/tntdeportesg/playlist.m3u8?id=268080&wowzasessionid=311292826&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/02/Directv-Sports-Logo.jpg" group-title="Media TV || Gold",DIRECTV SPORTS (S15) (EXCLUSIVO SMART TV) ---- **** ****
+http://159.89.121.150/loadbalance/74664488444658634274/chunks.m3u8?pxAuth=ebm7dp4v06k4ISvfxpWvVhGPKb5CFErZ
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/02/Directv-Sports-Logo.jpg" group-title="SERVER #5-21",DIRECTV SPORTS (S15) (EXCLUSIVO SMART TV) ---- **** ****
-http://167.99.168.86/loadbalance/74664488444658634274/chunks.m3u8?pxAuth=nT4NnX0QMZHWzuRRQmoU5XUaQN2oGSv4
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Media TV || Gold",FOX SPORTS (S15)
+http://101.mipsplayer.net:8088/adfree/foxsportsfc/playlist.m3u8?id=267621&wowzasessionid=3025502364&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://1.bp.blogspot.com/-vYjpa5qGEDI/VAN5N54oK7I/AAAAAAAAAG4/P5PmVrQJVs4/s1600/directv%252Bsports%252B2.png" group-title="SERVER #5-21",DIRECTV SPORTS 2 
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORTS 2 | (S15)
+http://102.mipsplayer.net:8088/adfree/foxdeporte2/playlist.m3u8?id=267660&wowzasessionid=7839164040&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-(S15)*
-http://103.mipsplayer.net:8088/adfree/directvpluss/playlist.m3u8?id=267661&wowzasessionid=346607719&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+#EXTINF:-1 type="stream" tvg-logo="http://andresarturoavila.files.wordpress.com/2016/05/golperu_logo1.jpg" group-title="Media TV || Gold",GOL PERU (S15)*
+http://101.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=3826935631&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.vidaentv.com/wp-content/uploads/2015/10/directv-.png" group-title="SERVER #5-21",DIRECTV SPORTS PLUS (S15)*
-http://101.mipsplayer.net:8088/adfree/directvpluss/playlist.m3u8?id=267661&wowzasessionid=3863230615&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="SERVER #5-21",FOX ACTION (S15)
-http://102.mipsplayer.net:8088/adfree/foxsportsfc/playlist.m3u8?id=267621&wowzasessionid=3694276176&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://andresarturoavila.files.wordpress.com/2016/05/golperu_logo1.jpg" group-title="SERVER #5-21",GOL PERU (S15)*
-http://101.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=7891442167&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4" group-title="SERVER #5-21",BEIN LA LIGA 7 (S17)****
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/3c3c222f1519f011e9f8de3e71234caf" group-title="Media TV || Gold",BEIN LA LIGA 1 (S5)*
+http://95.211.210.100:8088/stream/oikj4djj/playlist.m3u8?id=2721&wowzasessionid=3072776849&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ff1baa710cdc97cb203f926553f284f1" group-title="Media TV || Gold",BEIN LA LIGA 3 | (S8)
+http://178.162.199.138:8088/stream/oikj4djj/playlist.m3u8?id=2721&wowzasessionid=7844769939&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/39aa52a3d9c8d7d92f3887f44b8b1079" group-title="Media TV || Gold",BEIN LA LIGA 6 (S17)
+http://82.192.80.197:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=047258298&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4" group-title="Media TV || Gold",BEIN LA LIGA 7 (S17)**** (8AB18) --------------------------------------------------------------------------------------
 http://82.192.80.193:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=035875834&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ec5b2b04feb98786e996cdbba13768db" group-title="SERVER #5-21",BEIN LA LIGA 8 (S21)
-http://5.79.108.140:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=976689820&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/7a438c46724b3b08db0ce9d15a37276b" group-title="Media TV || Gold",BEIN SPORTS (S17)
+http://5.79.108.153:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3342903520&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/e18f9b7baa87be3948d4041683e30a9e" group-title="SERVER #5-21",BEIN SPORTS (S17)****
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/e18f9b7baa87be3948d4041683e30a9e" group-title="Media TV || Gold",BEIN SPORTS 1 (S17)**** (8AB18) --------------------------------------------------------------------------------------
 http://82.192.80.197:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=440931484&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5707fcb526cef2eb83443f6eb3ad2681" group-title="SERVER #5-21",BEIN SPORTS 4 (CANAL VIP) (S20)
-http://185.39.10.54:1935/tv/ZpzFUm0QHA20180406/chunklist_w1297411554_tkaGxzZW5kdGltZT0xNTIzMTcyOTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SXlrZlJCeE9pd2FabWlnUXdrT0o0Zk13RGx2NGRNMWpDdDBlZDhMM3pSOD0=.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f06cac539638f61c445fb884b46c3581" group-title="SERVER #5-21",BEIN MAX 1 (S17) ****
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/289cf3085213a3f600ec5d098fedfdc3" group-title="Media TV || Gold",BEIN MAX 1 (BEIN SPORTS 2) (S17)
+http://5.79.108.140:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3528449531&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/16860d99194eb61228f8b65382dca875" group-title="Media TV || Gold",BEIN SPORTS 3 (S17) ****
+http://62.212.82.77:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3805534992&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5707fcb526cef2eb83443f6eb3ad2681" group-title="Media TV || Gold",BEIN SPORTS 4 (CANAL VIP) (S20)
+https://live7.userapi.com/637614/live/v14fjnFFem0/playlist.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f06cac539638f61c445fb884b46c3581" group-title="Media TV || Gold",BEIN MAX 1 (BEIN SPORTS 7) (S17) **** (8AB18) -----------------------------------------------------------------
 http://82.192.80.193:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3009378929&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/534d5445ac2aaebbe7fa2d7f077e6f69" group-title="SERVER #5-21",BEIN MAX 2 (S17) ****
-http://178.162.199.137:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=975114937&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/534d5445ac2aaebbe7fa2d7f077e6f69" group-title="Media TV || Gold",BEIN MAX 2 (BEIN SPORTS 8) (S17) ****
+http://95.211.147.97:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=450164244&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://247-365.ir/wp-content/pic/sport_tv_logo/Canal_Liga_Cam.png" group-title="SERVER #5-21",LIGA DE CAMPEONES (BEIN SPORTS) (S17) ****
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png/revision/latest?cb=20160218210123" group-title="Media TV || Gold",LIGA DE CAMPEONES (BEIN SPORTS) (S17)
+http://5.79.108.153:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=232333533&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="http://247-365.ir/wp-content/pic/sport_tv_logo/Canal_Liga_Cam.png" group-title="Media TV || Gold",LIGA DE CAMPEONES (BEIN SPORTS) (S17) **** (8AB18) ------------------------------------------------------
 http://95.211.214.158:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=910368497&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/cffada6262de59de1c334cfb7809aa60" group-title="SERVER #5-21",#0 (CANAL 2) (S17)
-http://178.162.199.73:8088/stream/000LK/playlist.m3u8?id=2187&wowzasessionid=572380377&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+#EXTINF:-1 type="stream" tvg-logo="http://www.adslzone.tv/wp-content/uploads/2010/09/canalplus_liga_hd-300x187.png" group-title="Media TV || Gold",CANAL PLUS LIGA (S17)****
+http://95.211.147.97:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=3562018944&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://images.mi.tv/channels/cl_espn-4_m.png" group-title="SERVER #5-21",ESPN (S21) (EXCLUSIVO SMART TV) --------------- **** **** **** **** **** **** **** **** ****
-http://xxedge503.livesports.pw/live/verespn2625ce42ef6e11702084302/chunklist.m3u8?md5=_u1TU3cWxdK7u00pM3YuMA&expires=1523256733
 
-#EXTINF:-1 type="stream" tvg-logo="http://mitvstatic.com/channels/cl_fox-sports-basico_m.png" group-title="SERVER #5-21",FOX SPORTS (S21) (EXCLUSIVO SMART TV) -------- **** **** **** **** **** ****
-http://xxedge498.livesports.pw/live/foxsport1/chunklist.m3u8?md5=_hmei3jccYf0d1zYODAfQg&expires=1523256857
+
+#EXTINF:-1 type="stream" tvg-logo="http://destel.mx/wp-content/uploads/2016/04/933.png" group-title="Media TV || Gold",TDN (S21) ----------------------------------------------EXCLUSIVO SMART TV -------------------------------------------------------
+http://199.180.114.183:25461/live/ligatvhd/10042018/7.m3u8?token=GEAJABZcRwsaUANWV19RV1dcCFMAXANXAgEIA1wABg5XVQQAXAIBBFoQHkZCTUVWUlRvWQJGX1MdQUUVXRNtXgdAW0NXFkkTTFtfARMDBx8RSVlURF5HUQhTBEQUQ1dPFwcTDwRYOlVdRFsHVBsNXUZVXBxECws7VQZdB1YFEA1BUkNNR10WQRoIEDFfUFlWRxljHidKRQBUQ3NIbk8QG0EACBUXVRFUGggQXQQLFR8RWl9FCBAXHRNZEitgQx4VBhoVBAtHDF5WEAhGXApCCxEVElkVOxcBQhdCA1kMV0VBWENRRxhHXFlKbQdeV1lWUE1ZXwgXR14TUxJKGgxdWQoWDhM6RAxVGggQVwYIARFO
+
+#EXTINF:-1 type="stream" tvg-logo="http://mitvstatic.com/channels/cl_fox-sports-basico_m.png" group-title="Media TV || Gold",FOX SPORTS (S21) (EXCLUSIVO SMART TV) -------- **** **** **** **** **** ****
+http://xxedge509.livesports.pw/live/foxsport1/chunklist.m3u8?md5=4a6o7X-lwnyrcO_rfqm-ow&expires=1523759174
+
+
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",BEIN LA LIGA (S26)
+http://178.162.199.155:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=3538370176&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",TLNOVELAS **** **** (S26)
+http://95.211.214.158:8088/live/tlnovelasperucho/playlist.m3u8?id=97348&wowzasessionid=7833911046&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FRECUENCIA LATINA (S26)
+http://80.82.70.138:8088/stream/fulltvhd5/playlist.m3u8?id=19632&wowzasessionid=3380930535&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FOX SPORTS 3 (BC) (S26)
+http://178.162.199.138:8088/live/sports3ali/playlist.m3u8?id=95869&wowzasessionid=3748057996&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DIRECTV SPORTS (S26)*
+http://82.192.80.197:8088/live/directv1aliciap/playlist.m3u8?id=97344&wowzasessionid=531849570&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DISCOVERY CHANNEL ** (M-BC) **** **** (S26)
+http://2222.janjuaplayer.com:8088/live/discoverycristina/playlist.m3u8?id=78161&wowzasessionid=131349196&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",SPACE (BC) (S26)
+http://2222.janjuaplayer.com:8088/live/spacechamo1/playlist.m3u8?id=79060&wowzasessionid=3641061024&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",HBO (BC) (S26)
+http://154.16.149.86:8088/stream/hbopatona/playlist.m3u8?id=8219&wowzasessionid=50191640&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FOX (BC) (S26)
+http://2d06.janjuaplayer.com:8088/live/foxcristina/playlist.m3u8?id=78158&wowzasessionid=3599339676&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",WARNER CHANNEL (BC) (S26)
+http://2d06.janjuaplayer.com:8088/live/warnercristina/playlist.m3u8?id=78155&wowzasessionid=792055252&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DISNEY CHANNEL (BC) (S26)
+http://2d06.janjuaplayer.com:8088/live/disneycristina/playlist.m3u8?id=78156&wowzasessionid=7849613775&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a

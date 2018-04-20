@@ -43,73 +43,36 @@ http://bit.ly/toplatinohd_x_mediatvmexico
 #EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="Media TV || Gold",Mexico Travel (SO)
 http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/4f7022a6df2793f43b609fb43560ea04" group-title="Media TV || Gold",Euronews (SO)
-http://euronews-es-p2-cdn.hexaglobe.net/b6087111ff159a8f64ed7cfb47d0dbff/5ad15570/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_360p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
+#EXTBG: #008080
 
 
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/1fe1bd11297a67461515d23835b0855f" group-title="Media TV || Gold",CANAL SUR ANDALUCIA (S4)
-https://www.youtube.com/watch?v=8NxMdfHreT4
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/9c6c2a93a9ea6900c40cc5543d93eecc" group-title="Media TV || Gold",ANDALUCIA TV (S4)
-https://www.youtube.com/watch?v=Onr6GUP_d8Q
-
-
-
-
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) (S5)
 https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/55f3701aab7e60644038a55f458c406f" group-title="Media TV || Gold",CARACOL 2 (SD) (S27)
+https://live10.userapi.com/637601/live/3Y_O7CtFejc/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="Media TV || Gold",LA 1 (S13)*
 http://178.162.199.138:8088/stream/tvve11/playlist.m3u8?id=2698&wowzasessionid=3192169805&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="Media TV || Gold",LA 1 (S17)
-http://178.162.199.131:8088/stream/tve111g/playlist.m3u8?id=2189&wowzasessionid=446865093&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://peru.mom-rsf.org/uploads/tx_lfrogmom/media/2037-205_import.png" group-title="Media TV || Gold",LATINA TV
+#EXTINF:-1 type="stream" tvg-logo="http://peru.mom-rsf.org/uploads/tx_lfrogmom/media/2037-205_import.png" group-title="Media TV || Gold",LATINA TV | ||15||
 http://101.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=591768161&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d71e2a67875e4c9d41418d548d74a1bb" group-title="Media TV || Gold",FDF (S17)*
-http://95.211.210.100:8088/stream/fdfddf/playlist.m3u8?id=2185&wowzasessionid=088592874&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/cffada6262de59de1c334cfb7809aa60" group-title="Media TV || Gold",#0 (S17)
-http://178.162.199.137:8088/stream/000LK/playlist.m3u8?id=2187&wowzasessionid=3586817794&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-
 
 
 #EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORT 2 | SD (S8)
 http://154.16.149.86:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=3108720195&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORT 2 | SD (8AB18) (S8) ----------------------------------------------------------------------------------------------------------------------------------------------
-http://154.16.149.150:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=154531136&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 tvg-logo="http://famfonts.com/wp-content/uploads/espn-wide.png" group-title="Media TV || Gold",ESPN | SD (S8)
-http://95.211.210.100:8088/live/espinacapopeye2/playlist.m3u8?id=97545&wowzasessionid=3849960183&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="Media TV || Gold",ESPN 2 | SD (ESPN+) (S8)
-http://154.16.149.150:8088/stream/espn2gladys/playlist.m3u8?id=7608&wowzasessionid=066264694&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="Media TV || Gold",ESPN 2 | SD (ESPN+) (8AB18) (SD)(S8) ---------------------------------------------------------------------------------------------------------------------------------------
-http://154.16.149.150:8088/stream/espn2gladys/playlist.m3u8?id=7608&wowzasessionid=565619412&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="Media TV || Gold",MOVISTAR FUTBOL | (S13)
-http://95.211.147.97:8088/live/lugolugo/playlist.m3u8?id=98317&wowzasessionid=080472346&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-
 
 #EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_%282017%29_II.png/revision/latest?cb=20171003155024" group-title="Media TV || Gold",TNT SPORTS (S15)
 http://102.mipsplayer.net:8088/adfree/tntdeportesg/playlist.m3u8?id=268080&wowzasessionid=311292826&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/02/Directv-Sports-Logo.jpg" group-title="Media TV || Gold",DIRECTV SPORTS (S15) (EXCLUSIVO SMART TV) ---- **** ****
-http://159.89.121.150/loadbalance/74664488444658634274/chunks.m3u8?pxAuth=ebm7dp4v06k4ISvfxpWvVhGPKb5CFErZ
+#EXTINF:-1 type="stream" tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsports2tv.png" group-title="Media TV || Gold",DIRECTV SPORTS 2 (S15)*                                                                                                                 ---------
+http://103.mipsplayer.net:8088/adfree/directvpluss/playlist.m3u8?id=267661&wowzasessionid=346607719&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
 
 #EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Media TV || Gold",FOX SPORTS (S15)
@@ -122,30 +85,16 @@ http://102.mipsplayer.net:8088/adfree/foxdeporte2/playlist.m3u8?id=267660&wowzas
 http://101.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=3826935631&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
 
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/3c3c222f1519f011e9f8de3e71234caf" group-title="Media TV || Gold",BEIN LA LIGA 1 (S5)*
-http://95.211.210.100:8088/stream/oikj4djj/playlist.m3u8?id=2721&wowzasessionid=3072776849&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ff1baa710cdc97cb203f926553f284f1" group-title="Media TV || Gold",BEIN LA LIGA 3 | (S8)
-http://178.162.199.138:8088/stream/oikj4djj/playlist.m3u8?id=2721&wowzasessionid=7844769939&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/39aa52a3d9c8d7d92f3887f44b8b1079" group-title="Media TV || Gold",BEIN LA LIGA 6 (S17)
 http://82.192.80.197:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=047258298&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4" group-title="Media TV || Gold",BEIN LA LIGA 7 (S17)**** (8AB18) --------------------------------------------------------------------------------------
-http://82.192.80.193:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=035875834&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
+#EXTINF:-1 type="stream" tvg-logo="http://www.universfreebox.com/UserFiles/image/imagen_bein_liga.png" group-title="Media TV || Gold",BEIN SPORTS Ñ (BEIN LA LIGA*) (S29)
+http://178.162.199.73:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=900681922&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/7a438c46724b3b08db0ce9d15a37276b" group-title="Media TV || Gold",BEIN SPORTS (S17)
-http://5.79.108.153:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3342903520&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/e18f9b7baa87be3948d4041683e30a9e" group-title="Media TV || Gold",BEIN SPORTS 1 (S17)**** (8AB18) --------------------------------------------------------------------------------------
 http://82.192.80.197:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=440931484&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/289cf3085213a3f600ec5d098fedfdc3" group-title="Media TV || Gold",BEIN MAX 1 (BEIN SPORTS 2) (S17)
-http://5.79.108.140:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3528449531&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/16860d99194eb61228f8b65382dca875" group-title="Media TV || Gold",BEIN SPORTS 3 (S17) ****
 http://62.212.82.77:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3805534992&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
@@ -154,62 +103,137 @@ http://62.212.82.77:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=38055
 https://live7.userapi.com/637614/live/v14fjnFFem0/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f06cac539638f61c445fb884b46c3581" group-title="Media TV || Gold",BEIN MAX 1 (BEIN SPORTS 7) (S17) **** (8AB18) -----------------------------------------------------------------
-http://82.192.80.193:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3009378929&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/534d5445ac2aaebbe7fa2d7f077e6f69" group-title="Media TV || Gold",BEIN MAX 2 (BEIN SPORTS 8) (S17) ****
-http://95.211.147.97:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=450164244&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/f/f6/BeIN_Sports.png/revision/latest?cb=20160218210123" group-title="Media TV || Gold",LIGA DE CAMPEONES (BEIN SPORTS) (S17)
-http://5.79.108.153:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=232333533&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://247-365.ir/wp-content/pic/sport_tv_logo/Canal_Liga_Cam.png" group-title="Media TV || Gold",LIGA DE CAMPEONES (BEIN SPORTS) (S17) **** (8AB18) ------------------------------------------------------
-http://95.211.214.158:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=910368497&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.adslzone.tv/wp-content/uploads/2010/09/canalplus_liga_hd-300x187.png" group-title="Media TV || Gold",CANAL PLUS LIGA (S17)****
-http://95.211.147.97:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=3562018944&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://destel.mx/wp-content/uploads/2016/04/933.png" group-title="Media TV || Gold",TDN (S21) ----------------------------------------------EXCLUSIVO SMART TV -------------------------------------------------------
-http://199.180.114.183:25461/live/ligatvhd/10042018/7.m3u8?token=GEAJABZcRwsaUANWV19RV1dcCFMAXANXAgEIA1wABg5XVQQAXAIBBFoQHkZCTUVWUlRvWQJGX1MdQUUVXRNtXgdAW0NXFkkTTFtfARMDBx8RSVlURF5HUQhTBEQUQ1dPFwcTDwRYOlVdRFsHVBsNXUZVXBxECws7VQZdB1YFEA1BUkNNR10WQRoIEDFfUFlWRxljHidKRQBUQ3NIbk8QG0EACBUXVRFUGggQXQQLFR8RWl9FCBAXHRNZEitgQx4VBhoVBAtHDF5WEAhGXApCCxEVElkVOxcBQhdCA1kMV0VBWENRRxhHXFlKbQdeV1lWUE1ZXwgXR14TUxJKGgxdWQoWDhM6RAxVGggQVwYIARFO
-
-#EXTINF:-1 type="stream" tvg-logo="http://mitvstatic.com/channels/cl_fox-sports-basico_m.png" group-title="Media TV || Gold",FOX SPORTS (S21) (EXCLUSIVO SMART TV) -------- **** **** **** **** **** ****
-http://xxedge509.livesports.pw/live/foxsport1/chunklist.m3u8?md5=4a6o7X-lwnyrcO_rfqm-ow&expires=1523759174
-
-
-
-
 #EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",BEIN LA LIGA (S26)
 http://178.162.199.155:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=3538370176&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",TLNOVELAS **** **** (S26)
-http://95.211.214.158:8088/live/tlnovelasperucho/playlist.m3u8?id=97348&wowzasessionid=7833911046&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FRECUENCIA LATINA (S26)
-http://80.82.70.138:8088/stream/fulltvhd5/playlist.m3u8?id=19632&wowzasessionid=3380930535&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
 #EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FOX SPORTS 3 (BC) (S26)
 http://178.162.199.138:8088/live/sports3ali/playlist.m3u8?id=95869&wowzasessionid=3748057996&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DIRECTV SPORTS (S26)*
-http://82.192.80.197:8088/live/directv1aliciap/playlist.m3u8?id=97344&wowzasessionid=531849570&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DISCOVERY CHANNEL ** (M-BC) **** **** (S26)
-http://2222.janjuaplayer.com:8088/live/discoverycristina/playlist.m3u8?id=78161&wowzasessionid=131349196&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",SPACE (BC) (S26)
-http://2222.janjuaplayer.com:8088/live/spacechamo1/playlist.m3u8?id=79060&wowzasessionid=3641061024&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",HBO (BC) (S26)
-http://154.16.149.86:8088/stream/hbopatona/playlist.m3u8?id=8219&wowzasessionid=50191640&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FOX (BC) (S26)
-http://2d06.janjuaplayer.com:8088/live/foxcristina/playlist.m3u8?id=78158&wowzasessionid=3599339676&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",WARNER CHANNEL (BC) (S26)
 http://2d06.janjuaplayer.com:8088/live/warnercristina/playlist.m3u8?id=78155&wowzasessionid=792055252&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DISNEY CHANNEL (BC) (S26)
 http://2d06.janjuaplayer.com:8088/live/disneycristina/playlist.m3u8?id=78156&wowzasessionid=7849613775&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png" group-title="Media TV || Gold 2",FOX Life | Spain | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png" group-title="Media TV || Gold 2",FOX | Spain (1) | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a0bf4490868994d3a61ada61316bc8fd" group-title="Media TV || Gold 2",FOX | Spain (2) | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f13acaf9ee7257c29c2532b081b4f56e" group-title="Media TV || Gold 2",AXN | Spain | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f13acaf9ee7257c29c2532b081b4f56e" group-title="Media TV || Gold 2",AXN HD | Spain | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/35dc3db8fbe416540b084fffad9cecd5" group-title="Media TV || Gold 2",AXN White | Spain | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+
+ 
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/cffada6262de59de1c334cfb7809aa60" group-title="Media TV || Gold 2",#0 | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/882991623a1fbffcc6b589d29aa5dea9" group-title="Media TV || Gold 2",Cosmo | Spain | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/1999ff7a4db2d5120be8d8ba1d640e25" group-title="Media TV || Gold 2",Comedy Central | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png" group-title="Media TV || Gold 2",Hollywood | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/26c69e9f8246ba597e326f47cc6e143a" group-title="Media TV || Gold 2",beIN La Liga | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.universfreebox.com/UserFiles/image/imagen_bein_liga.png" group-title="Media TV || Gold 2",beIN La Liga | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mvpdeportes.com/esp/bein-la-liga2.png" group-title="Media TV || Gold 2",beIN La Liga | HD (Opcion #2) | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mvpdeportes.com/esp/bein-laliga-md.png" group-title="Media TV || Gold 2",beIN La Liga (Opcion #2) | ||14||
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://cafe-tv.net/wp-content/uploads/2017/03/Bein-Sport-LaLiga-TV-Live-Streaming-Bein-La-Liga.jpg" group-title="Media TV || Gold 2",beIN La Liga (Opcion #3) | ||14||
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5162cd5a80121eab8d9081d886a7a7e3" group-title="Media TV || Gold 2",beIN Sports | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.voxstadium.fr/wp-content/uploads/2016/11/logo-bein-header-small.png" group-title="Media TV || Gold 2",beIN Sports | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/566/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.fubo.tv/lp/v3_files/nlogos/logo-beIN-Sports-English.png" group-title="Media TV || Gold 2",beIN Sports | HD (Opcion #2) | ||14||
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/837_300.png" group-title="Media TV || Gold 2",beIN Sports | HD (Opcion #3) | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w300" group-title="Media TV || Gold 2",beIN Sports (Opcion #2) | ||14||
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://cdn.infos.fr/wp-content/uploads/2012/10/logo-bein-sport.jpg" group-title="Media TV || Gold 2",beIN Sports (Opcion #3) | ||14||
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ebf7875d208409d0a885a355e5572298" group-title="Media TV || Gold 2",LaLiga TV | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/6d0b79317e9b43cbf24e014cd986cac6" group-title="Media TV || Gold 2",LaLiga TV | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/9d4e8f415f5a5c34c67380e2be23dd1d" group-title="Media TV || Gold 2",LaLiga TV Bar | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="Media TV || Gold 2",Movistar Futbol | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://resource.t13.cl/img/img-disp/logo-movistar.png" group-title="Media TV || Gold 2",Movistar Futbol | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/ZxKlkAlLFjn5tuQ2lZlb9II6mDkN5DAR6IfGesozKIGEaLFiMRzuhS2Y2y4uQ6Sep54=s180" group-title="Media TV || Gold 2",Movistar Futbol | HD (Opcion #2) | ||14||
+http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/4da261d026e4a3cb4ab458154259ae1a" group-title="Media TV || Gold 2",Movistar F1 | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d2/Movistar_Formula_1.png/revision/latest?cb=20160815071030" group-title="Media TV || Gold 2",Movistar F1 | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/6f1a00c367b25558764586e5c2cc4184" group-title="Media TV || Gold 2",Movistar F1 (Opcion #2) | ||14||
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/76bd2769cc71f0ab862870f994a66309" group-title="Media TV || Gold 2",Movistar MotoGP | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/1f9750f46bccd528633af34e89c118ee" group-title="Media TV || Gold 2",Movistar Golf | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="Media TV || Gold 2",M+ Comedia | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f9ff1bee4af7861285defdf9bb65fe91" group-title="Media TV || Gold 2",M+ Series Xtra | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8 
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/67a9be81c155886804008f9942f91468" group-title="Media TV || Gold 2",M+ Accion | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.iptv-epg.com/es/MovistarAccion.es.png" group-title="Media TV || Gold 2",Movistar Accion | HD | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/89a598023aeb24ec0b5564cc605a60ea" group-title="Media TV || Gold 2",M+ DCine | ||14||
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://xn--fotocit-hya.com/M.Dcine_HD.png" group-title="Media TV || Gold 2",Movistar DCine (Opcion #2) | ||14||
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8

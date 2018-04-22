@@ -161,13 +161,13 @@ https://bud122.budtv.tv/liverobos/tooncast_p3/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Media TV || Gold",ANIMAL PLANET
 https://bud122.budtv.tv/liverobos/animal_planet_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.bleedingcool.com/wp-content/uploads/2017/08/disc-20-600x507.png" group-title="Media TV || Gold",DISCOVERY CHANNEL
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/640?cb=20141027100430" group-title="Media TV || Gold",DISCOVERY CHANNEL
 https://bud122.budtv.tv/liverobos/discovery_channel_p3/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="Media TV || Gold",H&H
 https://bud122.budtv.tv/liverobos/discovery_hh_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.corusent.com/wp-content/uploads/2016/03/History_Logo_2015_4C_Black_type.png" group-title="Media TV || Gold",HISTORY CHANNEL
+#EXTINF:-1 type="stream" tvg-logo="http://history.nl/wp-content/uploads/2016/01/retina_2.png" group-title="Media TV || Gold",HISTORY CHANNEL
 https://bud122.budtv.tv/liverobos/history_p3/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca24df.png" group-title="Media TV || Gold",NATIONAL GEOGRAPHIC

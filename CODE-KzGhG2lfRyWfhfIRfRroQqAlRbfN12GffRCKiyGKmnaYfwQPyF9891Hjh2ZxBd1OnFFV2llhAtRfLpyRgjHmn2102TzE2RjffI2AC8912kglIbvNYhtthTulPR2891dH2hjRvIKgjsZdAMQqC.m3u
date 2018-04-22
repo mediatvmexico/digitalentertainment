@@ -47,75 +47,15 @@ http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
 #EXTBG: #008080
 
-
-#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
-#EXTBG: #008080
-
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) (S5)
 https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/55f3701aab7e60644038a55f458c406f" group-title="Media TV || Gold",CARACOL 2 (SD) (S27)
 https://live10.userapi.com/637601/live/3Y_O7CtFejc/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f086013dc66f67ba8ad89831bf012487" group-title="Media TV || Gold",LA 1 (S13)*
-http://178.162.199.138:8088/stream/tvve11/playlist.m3u8?id=2698&wowzasessionid=3192169805&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
 
-#EXTINF:-1 type="stream" tvg-logo="http://peru.mom-rsf.org/uploads/tx_lfrogmom/media/2037-205_import.png" group-title="Media TV || Gold",LATINA TV | ||15||
-http://101.mipsplayer.net:8088/adfree/latinachannel/playlist.m3u8?id=267632&wowzasessionid=591768161&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORT 2 | SD (S8)
-http://154.16.149.86:8088/stream/sports2gladys/playlist.m3u8?id=7611&wowzasessionid=3108720195&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_%282017%29_II.png/revision/latest?cb=20171003155024" group-title="Media TV || Gold",TNT SPORTS (S15)
-http://102.mipsplayer.net:8088/adfree/tntdeportesg/playlist.m3u8?id=268080&wowzasessionid=311292826&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsports2tv.png" group-title="Media TV || Gold",DIRECTV SPORTS 2 (S15)*                                                                                                                 ---------
-http://103.mipsplayer.net:8088/adfree/directvpluss/playlist.m3u8?id=267661&wowzasessionid=346607719&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Media TV || Gold",FOX SPORTS (S15)
-http://101.mipsplayer.net:8088/adfree/foxsportsfc/playlist.m3u8?id=267621&wowzasessionid=3025502364&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORTS 2 | (S15)
-http://102.mipsplayer.net:8088/adfree/foxdeporte2/playlist.m3u8?id=267660&wowzasessionid=7839164040&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://andresarturoavila.files.wordpress.com/2016/05/golperu_logo1.jpg" group-title="Media TV || Gold",GOL PERU (S15)*
-http://101.mipsplayer.net:8088/adfree/golperusd/playlist.m3u8?id=267625&wowzasessionid=3826935631&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/39aa52a3d9c8d7d92f3887f44b8b1079" group-title="Media TV || Gold",BEIN LA LIGA 6 (S17)
-http://82.192.80.197:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=047258298&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.universfreebox.com/UserFiles/image/imagen_bein_liga.png" group-title="Media TV || Gold",BEIN SPORTS Ñ (BEIN LA LIGA*) (S29)
-http://178.162.199.73:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=900681922&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/e18f9b7baa87be3948d4041683e30a9e" group-title="Media TV || Gold",BEIN SPORTS 1 (S17)**** (8AB18) --------------------------------------------------------------------------------------
-http://82.192.80.197:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=440931484&pk=f5770b06e903a1eee6bfa5076bf2e55a6a6031927d68517b8566a44b18707a44
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/16860d99194eb61228f8b65382dca875" group-title="Media TV || Gold",BEIN SPORTS 3 (S17) ****
-http://62.212.82.77:8088/live/beinnn/playlist.m3u8?id=98218&wowzasessionid=3805534992&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5707fcb526cef2eb83443f6eb3ad2681" group-title="Media TV || Gold",BEIN SPORTS 4 (CANAL VIP) (S20)
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5707fcb526cef2eb83443f6eb3ad2681" group-title="Media TV || Gold",beIN SPORTS 4 (VIP)(20)
 https://live7.userapi.com/637614/live/v14fjnFFem0/playlist.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",BEIN LA LIGA (S26)
-http://178.162.199.155:8088/live/ligaliga/playlist.m3u8?id=98217&wowzasessionid=3538370176&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",FOX SPORTS 3 (BC) (S26)
-http://178.162.199.138:8088/live/sports3ali/playlist.m3u8?id=95869&wowzasessionid=3748057996&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",WARNER CHANNEL (BC) (S26)
-http://2d06.janjuaplayer.com:8088/live/warnercristina/playlist.m3u8?id=78155&wowzasessionid=792055252&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",DISNEY CHANNEL (BC) (S26)
-http://2d06.janjuaplayer.com:8088/live/disneycristina/playlist.m3u8?id=78156&wowzasessionid=7849613775&pk=d4688f135ff80ebfbba98abbd32e0f2a32defdd22c862a82baf412249083af8a
-
-
 
 
 #EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png" group-title="Media TV || Gold 2",FOX Life | Spain | ||14||

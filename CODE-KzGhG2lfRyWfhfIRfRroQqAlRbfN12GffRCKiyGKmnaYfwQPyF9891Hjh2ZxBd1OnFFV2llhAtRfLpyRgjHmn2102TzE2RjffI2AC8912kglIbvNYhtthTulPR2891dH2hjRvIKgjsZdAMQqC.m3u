@@ -40,140 +40,179 @@ http://bit.ly/uplatinohd_x_mediatvmexico
 http://bit.ly/toplatinohd_x_mediatvmexico
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="Media TV || Gold",Mexico Travel (SO)
+#EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="Media TV || Gold",Mexico Travel | ||SO||
 http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) (S5)
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) | ||S05||
 https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/55f3701aab7e60644038a55f458c406f" group-title="Media TV || Gold",CARACOL 2 (SD) (S27)
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/55f3701aab7e60644038a55f458c406f" group-title="Media TV || Gold",CARACOL 2 (SD) | ||S27||
 https://live10.userapi.com/637601/live/3Y_O7CtFejc/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5707fcb526cef2eb83443f6eb3ad2681" group-title="Media TV || Gold",beIN SPORTS 4 (VIP)(20)
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5707fcb526cef2eb83443f6eb3ad2681" group-title="Media TV || Gold",beIN SPORTS 4 | ||S20||
 https://live7.userapi.com/637614/live/v14fjnFFem0/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/49263/s49263_h5_aa.png" group-title="Media TV || Gold 2",FOX Life | Spain | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_79707.png" group-title="Media TV || Gold",SONY | ||S11||
+https://bud122.budtv.tv/liverobos/sony_p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://dshm.tmsimg.com/h5/NowShowing/75423/s75423_h5_aa.png" group-title="Media TV || Gold 2",FOX | Spain (1) | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Media TV || Gold",FOX
+https://bud122.budtv.tv/liverobos/fox_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a0bf4490868994d3a61ada61316bc8fd" group-title="Media TV || Gold 2",FOX | Spain (2) | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://2.bp.blogspot.com/-rAHjeQQtftE/UyPJ_1IZTcI/AAAAAAAAD98/5qRVEIGGU4A/s1600/tnt+hd+online.png" group-title="Media TV || Gold",TNT
+https://bud122.budtv.tv/liverobos/tnt_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f13acaf9ee7257c29c2532b081b4f56e" group-title="Media TV || Gold 2",AXN | Spain | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://www.foromedios.com/uploads/gallery/album_2/med_gallery_1163_2_22008.png" group-title="Media TV || Gold",WARNER
+http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f13acaf9ee7257c29c2532b081b4f56e" group-title="Media TV || Gold 2",AXN HD | Spain | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/2/2e/Universal_channel_2013.png/revision/latest?cb=20131204220424&path-prefix=es" group-title="Media TV || Gold",UNIVERSAL CHANNEL
+https://bud122.budtv.tv/liverobos/universal_channel_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/35dc3db8fbe416540b084fffad9cecd5" group-title="Media TV || Gold 2",AXN White | Spain | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/b0/Distrito.png/revision/latest?cb=20160812222827" group-title="Media TV || Gold",DISTRITO COMEDIA
+https://bud122.budtv.tv/liverobos/distrito_comedia_p3/playlist.m3u8
 
- 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/cffada6262de59de1c334cfb7809aa60" group-title="Media TV || Gold 2",#0 | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://airecable.com/images/basico-laredo/UNICABLE.png" group-title="Media TV || Gold",UNICABLE
+https://bud122.budtv.tv/liverobos/unicable_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/882991623a1fbffcc6b589d29aa5dea9" group-title="Media TV || Gold 2",Cosmo | Spain | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/6/62/TLNovelas_2011.png/revision/latest?cb=20130903004018&path-prefix=es" group-title="Media TV || Gold",TLNOVELAS
+https://bud122.budtv.tv/liverobos/tl_novelas_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/1999ff7a4db2d5120be8d8ba1d640e25" group-title="Media TV || Gold 2",Comedy Central | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/11151/logo_canal%20hollywood3.png" group-title="Media TV || Gold 2",Hollywood | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://lh5.ggpht.com/G5-b8-QascOHoPcm-o6FPbD_Zpcv3Jk6IOoGLt4weQrakUK1MsCiqVFfrPhSyBg_1rw=w300" group-title="Media TV || Gold",CANAL 5
+http://live207.budtv.tv:8081/budtv/canal_5_masterbox_170/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/26c69e9f8246ba597e326f47cc6e143a" group-title="Media TV || Gold 2",beIN La Liga | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest?cb=20140901200608" group-title="Media TV || Gold",AMC
+https://bud122.budtv.tv/liverobos/amc_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.universfreebox.com/UserFiles/image/imagen_bein_liga.png" group-title="Media TV || Gold 2",beIN La Liga | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://pmcdeadline2.files.wordpress.com/2013/10/cinemax__131007164113.png" group-title="Media TV || Gold",CINEMAX
+https://bud122.budtv.tv/liverobos/cinemax_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mvpdeportes.com/esp/bein-la-liga2.png" group-title="Media TV || Gold 2",beIN La Liga | HD (Opcion #2) | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mvpdeportes.com/esp/bein-laliga-md.png" group-title="Media TV || Gold 2",beIN La Liga (Opcion #2) | ||14||
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://cafe-tv.net/wp-content/uploads/2017/03/Bein-Sport-LaLiga-TV-Live-Streaming-Bein-La-Liga.jpg" group-title="Media TV || Gold 2",beIN La Liga (Opcion #3) | ||14||
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://comsset.com/wp-content/uploads/2017/04/SPACE.png" group-title="Media TV || Gold",SPACE
+https://bud122.budtv.tv/liverobos/space_p3/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/5162cd5a80121eab8d9081d886a7a7e3" group-title="Media TV || Gold 2",beIN Sports | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/04/ae-logo1__140401162031.png" group-title="Media TV || Gold",A&E
+https://live97.elrobacanales.com/budtv/A_E_IZZI_111/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.voxstadium.fr/wp-content/uploads/2016/11/logo-bein-header-small.png" group-title="Media TV || Gold 2",beIN Sports | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/566/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="Media TV || Gold",AXN
+https://bud122.budtv.tv/liverobos/axn_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.fubo.tv/lp/v3_files/nlogos/logo-beIN-Sports-English.png" group-title="Media TV || Gold 2",beIN Sports | HD (Opcion #2) | ||14||
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/4/47/Fox_Life_HD_2011.png/revision/latest?cb=20140414171146" group-title="Media TV || Gold",FOX LIFE
+https://bud122.budtv.tv/liverobos/fox_life_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/837_300.png" group-title="Media TV || Gold 2",beIN Sports | HD (Opcion #3) | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/726_300.png" group-title="Media TV || Gold",FX
+https://bud122.budtv.tv/liverobos/fx_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w300" group-title="Media TV || Gold 2",beIN Sports (Opcion #2) | ||14||
-http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://www.glitztvla.com/wp-content/uploads/2015/06/logo-footer.png" group-title="Media TV || Gold",GLITZ
+https://bud122.budtv.tv/liverobos/glitz_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://cdn.infos.fr/wp-content/uploads/2012/10/logo-bein-sport.jpg" group-title="Media TV || Gold 2",beIN Sports (Opcion #3) | ||14||
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="Media TV || Gold",SYFY
+https://bud122.budtv.tv/liverobos/syfy_p3/playlist.m3u8
 
+#EXTINF:-1 type="stream" tvg-logo="http://1.bp.blogspot.com/-0CJykf8IrBM/Vv6gt6PH6bI/AAAAAAAAQpM/YadwzT5BTeQ0uithEDzALveI9EBkXfiog/s1600/TBS.png" group-title="Media TV || Gold",TBS
+https://bud122.budtv.tv/liverobos/tbs_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/ebf7875d208409d0a885a355e5572298" group-title="Media TV || Gold 2",LaLiga TV | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://buscador.cablevisionfibertel.com.ar/logos/2999.png" group-title="Media TV || Gold",TNT SERIES
+https://bud122.budtv.tv/liverobos/tnt_series_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/6d0b79317e9b43cbf24e014cd986cac6" group-title="Media TV || Gold 2",LaLiga TV | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/581/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/doblaje/images/0/01/TruTV.png/revision/latest?cb=20150314183108&path-prefix=es" group-title="Media TV || Gold",TRUTV
+https://bud122.budtv.tv/liverobos/tru_tv_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/9d4e8f415f5a5c34c67380e2be23dd1d" group-title="Media TV || Gold 2",LaLiga TV Bar | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/581/index.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/a27814d615c8de55015fef68ca412e6e" group-title="Media TV || Gold 2",Movistar Futbol | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://resource.t13.cl/img/img-disp/logo-movistar.png" group-title="Media TV || Gold 2",Movistar Futbol | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/ZxKlkAlLFjn5tuQ2lZlb9II6mDkN5DAR6IfGesozKIGEaLFiMRzuhS2Y2y4uQ6Sep54=s180" group-title="Media TV || Gold 2",Movistar Futbol | HD (Opcion #2) | ||14||
-http://playlist.onlybest.tv/ru/channel/d0f21a70397d3659fe259aa5e2a62107/575/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/6/62/TLC_HD.png/revision/latest?cb=20140508101425" group-title="Media TV || Gold",TLC
+https://bud122.budtv.tv/liverobos/discovery_tlc_p3/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/4da261d026e4a3cb4ab458154259ae1a" group-title="Media TV || Gold 2",Movistar F1 | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/f/f1/OnAir_Logo_Boomerang_HD_2015.png/revision/20160309134153" group-title="Media TV || Gold",BOOMERANG
+https://bud122.budtv.tv/liverobos/boomerang_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d2/Movistar_Formula_1.png/revision/latest?cb=20160815071030" group-title="Media TV || Gold 2",Movistar F1 | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/6b/LogoNG.png/revision/latest?cb=20170708015823" group-title="Media TV || Gold",NAT GEO KIDS (CBEE)
+https://bud122.budtv.tv/liverobos/natgeo_kids_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/6f1a00c367b25558764586e5c2cc4184" group-title="Media TV || Gold 2",Movistar F1 (Opcion #2) | ||14||
-http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/a/a6/Cartoon_Network_HD_2010.png/revision/latest?cb=20111203001807" group-title="Media TV || Gold",CARTOON NETWORK
+https://bud122.budtv.tv/liverobos/cartoon_network_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/76bd2769cc71f0ab862870f994a66309" group-title="Media TV || Gold 2",Movistar MotoGP | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png/revision/latest?cb=20140922200137" group-title="Media TV || Gold",DISCOVERY KIDS
+https://bud122.budtv.tv/liverobos/discovery_kids_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/1f9750f46bccd528633af34e89c118ee" group-title="Media TV || Gold 2",Movistar Golf | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/the7d/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20150720210351" group-title="Media TV || Gold",DISNEY JUNIOR
+https://bud122.budtv.tv/liverobos/disney_jr_p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="Media TV || Gold 2",M+ Comedia | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/cartoonfatness/images/c/ca/Nick_Jr.png/revision/latest/scale-to-width-down/639?cb=20160222172337" group-title="Media TV || Gold",NICK JUNIOR
+https://bud122.budtv.tv/liverobos/nick_jr_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/f9ff1bee4af7861285defdf9bb65fe91" group-title="Media TV || Gold 2",M+ Series Xtra | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8 
+#EXTINF:-1 type="stream" tvg-logo="http://www.bestcg.com/wp/wp-content/uploads/disney-channel-logo-455x203.png" group-title="Media TV || Gold",DISNEY CHANNEL
+https://bud122.budtv.tv/liverobos/disney_channel_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/67a9be81c155886804008f9942f91468" group-title="Media TV || Gold 2",M+ Accion | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/cartoons/images/e/e5/Disney_XD_Logo.png/revision/latest?cb=20090103000918" group-title="Media TV || Gold",DISNEY XD
+https://bud122.budtv.tv/liverobos/disney_xd_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://static.iptv-epg.com/es/MovistarAccion.es.png" group-title="Media TV || Gold 2",Movistar Accion | HD | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/avatar/images/a/af/Nick_HD.png/revision/latest?cb=20120731163111&path-prefix=es" group-title="Media TV || Gold",NICK
+https://bud122.budtv.tv/liverobos/nick_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/89a598023aeb24ec0b5564cc605a60ea" group-title="Media TV || Gold 2",M+ DCine | ||14||
-http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Media TV || Gold",TOONCAST
+https://bud122.budtv.tv/liverobos/tooncast_p3/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://xn--fotocit-hya.com/M.Dcine_HD.png" group-title="Media TV || Gold 2",Movistar DCine (Opcion #2) | ||14||
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Media TV || Gold",ANIMAL PLANET
+https://bud122.budtv.tv/liverobos/animal_planet_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.bleedingcool.com/wp-content/uploads/2017/08/disc-20-600x507.png" group-title="Media TV || Gold",DISCOVERY CHANNEL
+https://bud122.budtv.tv/liverobos/discovery_channel_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="Media TV || Gold",H&H
+https://bud122.budtv.tv/liverobos/discovery_hh_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.corusent.com/wp-content/uploads/2016/03/History_Logo_2015_4C_Black_type.png" group-title="Media TV || Gold",HISTORY CHANNEL
+https://bud122.budtv.tv/liverobos/history_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.nationalgeographic.org/static/ngs/home/img/logo.e6616dca24df.png" group-title="Media TV || Gold",NATIONAL GEOGRAPHIC
+https://bud122.budtv.tv/liverobos/natgeo_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="Media TV || Gold",NAT GEO WILD
+https://bud122.budtv.tv/liverobos/natgeo_wild_p3/playlist.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_4457.png" group-title="Media TV || Gold",AZ MUNDO
+https://bud122.budtv.tv/liverobos/az_mundo_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest?cb=20150806182241" group-title="Media TV || Gold",BANDAMAX
+https://bud122.budtv.tv/liverobos/bandamax_p3/playlist.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest/scale-to-width-down/350?cb=20160715002021&path-prefix=es" group-title="Media TV || Gold",TVC DEPORTES
+https://bud122.budtv.tv/liverobos/tvc_deportes_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="Media TV || Gold",FOX SPORTS
+https://bud122.budtv.tv/liverobos/fox_sports_1_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="Media TV || Gold",FOX SPORTS 2
+https://bud122.budtv.tv/liverobos/fox_sports_2_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/tsBxDxY.png" group-title="Media TV || Gold",FOX SPORTS 3
+https://bud122.budtv.tv/liverobos/fox_sports_3_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.movistar.com.pe/c/document_library/get_file?uuid=7585521b-0e78-43ea-9140-4f83661404ff&groupId=10182" group-title="Media TV || Gold",ESPN
+https://bud122.budtv.tv/liverobos/espn_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="Media TV || Gold",ESPN 2
+https://bud122.budtv.tv/liverobos/espn_2_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.maxxsouth.com/wp-content/uploads/2016/03/logo-espn3.png" group-title="Media TV || Gold",ESPN 3
+https://bud122.budtv.tv/liverobos/espn_3_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/espn_plus.png" group-title="Media TV || Gold",ESPN PLUS
+https://bud122.budtv.tv/liverobos/espn_plus_p3/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/espndeportes.png" group-title="Media TV || Gold",ESPN DEPORTES
+https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://seeklogo.com/images/T/televisa-deportes-network-tdn-logo-72D1170070-seeklogo.com.png" group-title="Media TV || Gold",TDN
+https://live97.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4f/UFC_Network_2015.png/revision/latest?cb=20160423005253" group-title="Media TV || Gold",UFC NETWORK
+https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8

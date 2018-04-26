@@ -54,45 +54,11 @@ https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
 https://live10.userapi.com/637601/live/3Y_O7CtFejc/playlist.m3u8
 
 
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_79707.png" group-title="Media TV || Gold",SONY | ||S11||
-https://bud122.budtv.tv/liverobos/sony_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="Media TV || Gold",FOX
-https://bud122.budtv.tv/liverobos/fox_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://2.bp.blogspot.com/-rAHjeQQtftE/UyPJ_1IZTcI/AAAAAAAAD98/5qRVEIGGU4A/s1600/tnt+hd+online.png" group-title="Media TV || Gold",TNT
-https://bud122.budtv.tv/liverobos/tnt_p3/playlist.m3u8
-
 #EXTINF:-1 type="stream" tvg-logo="http://www.foromedios.com/uploads/gallery/album_2/med_gallery_1163_2_22008.png" group-title="Media TV || Gold",WARNER
 http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/2/2e/Universal_channel_2013.png/revision/latest?cb=20131204220424&path-prefix=es" group-title="Media TV || Gold",UNIVERSAL CHANNEL
-https://bud122.budtv.tv/liverobos/universal_channel_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/b0/Distrito.png/revision/latest?cb=20160812222827" group-title="Media TV || Gold",DISTRITO COMEDIA
-https://bud122.budtv.tv/liverobos/distrito_comedia_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://airecable.com/images/basico-laredo/UNICABLE.png" group-title="Media TV || Gold",UNICABLE
-https://bud122.budtv.tv/liverobos/unicable_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/6/62/TLNovelas_2011.png/revision/latest?cb=20130903004018&path-prefix=es" group-title="Media TV || Gold",TLNOVELAS
-https://bud122.budtv.tv/liverobos/tl_novelas_p3/playlist.m3u8
-
 #EXTINF:-1 type="stream" tvg-logo="http://lh5.ggpht.com/G5-b8-QascOHoPcm-o6FPbD_Zpcv3Jk6IOoGLt4weQrakUK1MsCiqVFfrPhSyBg_1rw=w300" group-title="Media TV || Gold",CANAL 5
 http://live207.budtv.tv:8081/budtv/canal_5_masterbox_170/playlist.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest?cb=20140901200608" group-title="Media TV || Gold",AMC
-https://bud122.budtv.tv/liverobos/amc_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://pmcdeadline2.files.wordpress.com/2013/10/cinemax__131007164113.png" group-title="Media TV || Gold",CINEMAX
-https://bud122.budtv.tv/liverobos/cinemax_p3/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://comsset.com/wp-content/uploads/2017/04/SPACE.png" group-title="Media TV || Gold",SPACE
-https://bud122.budtv.tv/liverobos/space_p3/playlist.m3u8
-
 
 #EXTINF:-1 type="stream" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/04/ae-logo1__140401162031.png" group-title="Media TV || Gold",A&E
 https://live97.elrobacanales.com/budtv/A_E_IZZI_111/playlist.m3u8

@@ -42,6 +42,9 @@ http://bit.ly/toplatinohd_x_mediatvmexico
 #EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="Media TV || Gold",Mexico Travel | ||SO||
 http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/4f7022a6df2793f43b609fb43560ea04" group-title="Media TV || Gold",Euronews (SO)
+http://euronews-es-p9-cdn.hexaglobe.net/13e42fe9b21395a830e2611ef8e9d3e0/5ae315da/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_540p.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
 #EXTBG: #008080

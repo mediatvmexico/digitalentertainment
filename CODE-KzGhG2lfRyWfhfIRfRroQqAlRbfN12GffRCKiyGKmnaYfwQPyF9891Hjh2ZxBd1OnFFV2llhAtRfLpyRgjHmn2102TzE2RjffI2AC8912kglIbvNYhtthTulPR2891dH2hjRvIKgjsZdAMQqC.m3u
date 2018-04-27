@@ -49,7 +49,7 @@ http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) | ||S05||
 https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.foromedios.com/uploads/gallery/album_2/med_gallery_1163_2_22008.png" group-title="Media TV || Gold",WARNER
+#EXTINF:-1 type="stream" tvg-logo="" group-title="Media TV || Gold",UNIVERSAL CHANNEL
 http://live207.budtv.tv:8081/budtv/warney_bros_startv_119/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://lh5.ggpht.com/G5-b8-QascOHoPcm-o6FPbD_Zpcv3Jk6IOoGLt4weQrakUK1MsCiqVFfrPhSyBg_1rw=w300" group-title="Media TV || Gold",CANAL 5

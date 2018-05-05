@@ -83,3 +83,22 @@ https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4f/UFC_Network_2015.png/revision/latest?cb=20160423005253" group-title="Media TV || Gold",UFC NETWORK
 https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",LA LIGA TV
+http://xxedge2406.livesports.pw/live/ligatv/chunklist.m3u8?md5=suduwhYZr3fZ35qDEWpmnA&expires=1525625050
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",beIN SPORTS
+http://xxedge2401.livesports.pw/live/beinsportesp/chunklist.m3u8?md5=9yp-ibSN5hO8VEMhSLF-GQ&expires=1525625310
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",ESPN
+http://xxedge2409.livesports.pw/live/verespn2625ce42ef6e11702084302/chunklist.m3u8?md5=khbLwAuL5kBPw7dKgHvOag&expires=1525625972
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",ESPN 2
+http://xxedge2409.livesports.pw/live/verespndosmx644ae626dc74b12a3f/chunklist.m3u8?md5=LRSSe72eHfdjmKRX_ZH49g&expires=1525626119
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",UNIVERSAL CHANNEL
+http://xxedge63.livesports.pw/live/universal/chunklist.m3u8?md5=6DmCWhNh5TbxyFnJR_w1FQ&expires=1525629161
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",FDF
+http://copo5.mitopo.me/live/fdf/index.m3u8?token=dNwzyO72jsm2d7fDmkUaYw&expires=1525629385

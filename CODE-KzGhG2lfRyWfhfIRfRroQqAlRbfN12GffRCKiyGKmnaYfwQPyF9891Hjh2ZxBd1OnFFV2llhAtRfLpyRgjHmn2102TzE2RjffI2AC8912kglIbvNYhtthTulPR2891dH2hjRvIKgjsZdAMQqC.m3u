@@ -43,5 +43,14 @@ http://wpc.774ef.xicdn.net/24774EF/live/acustik900.m3u8
 #EXTINF: -1 tvg-logo = "http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png", ==== Media TV || Gold ==== ========================================== ================
 #EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/d52226a17331f34dcacccfd098ee2582" group-title="Media TV || Gold",CARACOL (SD) | ||S05||
-https://live6.userapi.com/637614/live/3bj57CxFejA/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/04/ae-logo1__140401162031.png" group-title="Media TV || Gold",A&E
+https://live97.elrobacanales.com/budtv/A_E_IZZI_111/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://seeklogo.com/images/T/televisa-deportes-network-tdn-logo-72D1170070-seeklogo.com.png" group-title="Media TV || Gold",TDN
+https://live97.elrobacanales.com/budtv/Eventos_BudTv_TDN_StarTv_150/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://cdn.tvpassport.com/image/station/240x135/espndeportes.png" group-title="Media TV || Gold",ESPN DEPORTES
+https://live97.elrobacanales.com/budtv/Evento_BudTv_ESPN_Dep_151/playlist.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4f/UFC_Network_2015.png/revision/latest?cb=20160423005253" group-title="Media TV || Gold",UFC NETWORK
+https://live97.elrobacanales.com/budtv/ufc_total_play_100/playlist.m3u8

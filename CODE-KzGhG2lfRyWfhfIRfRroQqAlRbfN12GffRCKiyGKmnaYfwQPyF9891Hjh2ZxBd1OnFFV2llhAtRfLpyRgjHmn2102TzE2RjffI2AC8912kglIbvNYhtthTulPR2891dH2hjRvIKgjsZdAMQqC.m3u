@@ -1,40 +1,68 @@
-
-#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Gold ==== =============================================================
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Plus ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Media TV || Gold",Las Estrellas | HD
+#EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Media TV || Plus",Las Estrellas | HD
 http://bit.ly/lasestrellashd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="Media TV || Gold",Deutsche Welle En Español | HD
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4a/ForoTV_HD_2016.png/revision/latest/scale-to-width-down/200?cb=20160315021422" group-title="Media TV || Plus",Foro TV | HD
+http://bit.ly/forotvhd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="Media TV || Plus",Deutsche Welle En Español | HD
 http://bit.ly/deutschewellehd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="Media TV || Gold",China Global En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="Media TV || Plus",China Global En Español | HD
 http://bit.ly/chinaglobalhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="Media TV || Gold",Russia Today En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="Media TV || Plus",Russia Today En Español | HD
 http://bit.ly/rthd_x_mediatvmexico
 
-#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="Media TV || Gold",HISPANTV En Español | HD
+#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="Media TV || Plus",HISPANTV En Español | HD
 http://bit.ly/hispantvhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="Media TV || Gold",Real Madrid TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="Media TV || Plus",Real Madrid TV | HD
 http://bit.ly/realmadridtvhd_x_mediatvmexico
 
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.tdcan.es/imagenes/canales/cuatro_hd.png" group-title="Media TV || Gold",Cuatro | HD
+#EXTINF:-1 type="stream" tvg-logo="http://www.tdcan.es/imagenes/canales/cuatro_hd.png" group-title="Media TV || Plus",Cuatro | HD
 http://bit.ly/cuatrohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://kal-images.ono.es/app_posters/205c230554f143698840d5228a7b9924_302X170.png" group-title="Media TV || Gold", Telecinco | HD
+#EXTINF:-1 type="stream" tvg-logo="http://kal-images.ono.es/app_posters/205c230554f143698840d5228a7b9924_302X170.png" group-title="Media TV || Plus", Telecinco | HD
 http://bit.ly/telecincohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Media TV || Gold",Pop TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Media TV || Plus",Pop TV | HD
 http://bit.ly/tvpophd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/he2I1tUvFo0f5J8BXPeEVCiBKTSqIn-6XICkb-RuWTMfJWXr0AGAdswLwQmMtUcq2xg=h310" group-title="Media TV || Gold",Up! TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/he2I1tUvFo0f5J8BXPeEVCiBKTSqIn-6XICkb-RuWTMfJWXr0AGAdswLwQmMtUcq2xg=h310" group-title="Media TV || Plus",Up! TV | HD
 http://bit.ly/uplatinohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://3.bp.blogspot.com/_HuzhnbX6a_4/TSh9gkm1KGI/AAAAAAAAAGU/XdmuEa-sdaw/s1600/toplatino.jpg" group-title="Media TV || Gold",Top Latino TV | HD
+#EXTINF:-1 type="stream" tvg-logo="http://3.bp.blogspot.com/_HuzhnbX6a_4/TSh9gkm1KGI/AAAAAAAAAGU/XdmuEa-sdaw/s1600/toplatino.jpg" group-title="Media TV || Plus",Top Latino TV | HD
 http://bit.ly/toplatinohd_x_mediatvmexico
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Media TV || Plus",PortalFoxMix | SD-HD
+http://bit.ly/portalfoxmixhd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://fmhot.cl/wp-content/uploads/2014/09/noimagen.png" group-title="Media TV || Plus",FM Hot | HD
+http://bit.ly/fmhothd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.tctelevision.com/sites/default/files/TClider.png" group-title="Media TV || Plus",TeleCentro || HD || Ecuador
+http://bit.ly/telecentrohd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/968ef989bb728383504af8addc8229c8" group-title="Media TV || Plus",TeleMadrid | HD | S12
+http://bit.ly/telemadridhd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.ruvix.com/wp-content/uploads/2015/07/chilevision-logo.png" group-title="Media TV || Plus",Chilevision | SD
+http://bit.ly/chilevisionsd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="https://pbs.twimg.com/media/CudLt3UUIAA3HVq.jpg" group-title="Media TV || Plus",Ticavision || HD || Costa Rica
+http://bit.ly/ticavisionhd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="Media TV || Plus",Wow TV || SD-HD || El Salvador
+http://bit.ly/wowtvhd_x_mediatvmexico
+
+#EXTINF:-1 type="stream" tvg-logo="http://teleredtelevision.com/images/logo.png" group-title="Media TV || Plus",TeleRed || SD-HD || Costa Rica
+http://bit.ly/teleredhd_x_mediatvmexico
 
 
 #EXTINF:-1 type="stream" tvg-logo="http://i.vimeocdn.com/portrait/7944807_300x300" group-title="Media TV || Gold",Mexico Travel | ||SO||

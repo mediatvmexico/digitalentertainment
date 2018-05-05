@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Plus ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="Media TV || Plus",Telemundo | HD
-http://bit.ly/telemundohd_x_mediatvmexico
-
 #EXTINF:-1 type="stream" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Media TV || Plus",Las Estrellas | HD
 http://bit.ly/lasestrellashd_x_mediatvmexico
 

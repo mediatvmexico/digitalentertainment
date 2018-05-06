@@ -102,3 +102,6 @@ http://xxedge63.livesports.pw/live/universal/chunklist.m3u8?md5=6DmCWhNh5TbxyFnJ
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="MEDIA ENTERTAINMENT",FDF
 http://copo5.mitopo.me/live/fdf/index.m3u8?token=dNwzyO72jsm2d7fDmkUaYw&expires=1525629385
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="",beIN LA LIGA
+https://cdn.younow.com/php/api/broadcast/videoPath/hls=1/broadcastId=179861731_live.m3u8

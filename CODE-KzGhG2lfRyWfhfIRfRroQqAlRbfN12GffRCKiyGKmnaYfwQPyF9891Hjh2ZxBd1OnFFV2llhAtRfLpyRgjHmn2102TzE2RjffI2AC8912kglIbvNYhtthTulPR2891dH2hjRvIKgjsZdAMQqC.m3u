@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Plus ==== =============================================================
 #EXTBG: #008080
 
-#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large_DW.png.3fe2d05454a9280dc0d842eec2953dc5.png" group-title="Media TV || Plus",Deutsche Welle En Español | HD
+#EXTINF:-1 type="stream" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/DW.png" group-title="Media TV || Plus",Deutsche Welle En Español | HD
 http://bit.ly/deutschewellehd_x_mediatvmexico
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="Media TV || Plus",China Global En Español | HD

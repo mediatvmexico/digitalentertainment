@@ -113,3 +113,25 @@ http://ligatv.net:25461/live/angelitos/30102018/176.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="TV",LAS ESTRELLAS
 http://ligatv.net:25461/live/angelitos/30102018/306.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",LAS ESTRELLAS 2
+http://ligatv.net:25461/live/angelitos/30102018/126.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISTRITO COMEDIA
+http://ligatv.net:25461/live/angelitos/30102018/317.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ANIMAL PLANET
+http://ligatv.net:25461/live/angelitos/30102018/362.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX SPORTS
+http://ligatv.net:25461/live/angelitos/30102018/232.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX SPORTS 2
+http://ligatv.net:25461/live/angelitos/30102018/233.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",SONY
+http://ligatv.net:25461/live/angelitos/30102018/142.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NICK JR
+http://ligatv.net:25461/live/angelitos/30102018/159.m3u8

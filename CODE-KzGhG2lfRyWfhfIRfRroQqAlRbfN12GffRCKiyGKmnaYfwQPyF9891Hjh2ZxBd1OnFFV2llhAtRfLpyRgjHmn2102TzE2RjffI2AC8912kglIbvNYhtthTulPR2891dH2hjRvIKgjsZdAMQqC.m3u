@@ -14,12 +14,12 @@ http://bit.ly/rthd_x_mediatvmexico
 #EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="Media TV || Plus",Real Madrid TV | HD
 http://bit.ly/realmadridtvhd_x_mediatvmexico
 
+#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="Media TV || Plus",Telemundo | HD
+http://bit.ly/telemundohd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="https://www.ono.es/ono-resources/img/products-web/logos_parrilla_tv/img_logo_antena3_hd.png" group-title="Media TV || Plus", Antena 3 TV (HD)
-https://livepull1.secure.footprint.net/antena3mpp/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="Media TV || Plus",HISPANTV | HD
+http://bit.ly/hispantvhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/3b2415d95a9977a958781eb9981d4abf" group-title="Media TV || Plus", LaSexta TV (HD)
-https://livepull1.secure.footprint.net/lasextampp/bitrate_3.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/uXUOUbI.png" group-title="Media TV || Plus",La 2 (SD)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
@@ -27,9 +27,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 #EXTINF:-1 type="stream" tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Canal24htvelep.png" group-title="Media TV || Plus",24H (SD) (España)
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=400000.m3u8
 
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/8JlopAB.png" group-title="Media TV || Plus",Pop TV | HD
-http://bit.ly/tvpophd_x_mediatvmexico
 
 #EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/he2I1tUvFo0f5J8BXPeEVCiBKTSqIn-6XICkb-RuWTMfJWXr0AGAdswLwQmMtUcq2xg=h310" group-title="Media TV || Plus",Up! TV | HD
 http://bit.ly/uplatinohd_x_mediatvmexico

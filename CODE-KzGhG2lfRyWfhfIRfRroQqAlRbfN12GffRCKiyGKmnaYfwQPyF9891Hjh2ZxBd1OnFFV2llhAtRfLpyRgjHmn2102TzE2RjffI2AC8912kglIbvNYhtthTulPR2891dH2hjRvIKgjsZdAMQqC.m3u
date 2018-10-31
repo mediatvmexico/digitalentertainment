@@ -8,9 +8,6 @@ http://bit.ly/deutschewellehd_x_mediatvmexico
 #EXTINF:-1 type="stream" tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/CCC/cgtv-hero.png" group-title="Media TV || Plus",China Global En Español | HD
 http://bit.ly/chinaglobalhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://s-media-cache-ak0.pinimg.com/236x/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="Media TV || Plus",Russia Today En Español | HD
-http://bit.ly/rthd_x_mediatvmexico
-
 #EXTINF:-1 type="stream" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest?cb=20170103061913" group-title="Media TV || Plus",Real Madrid TV | HD
 http://bit.ly/realmadridtvhd_x_mediatvmexico
 
@@ -19,13 +16,6 @@ http://bit.ly/telemundohd_x_mediatvmexico
 
 #EXTINF:-1 tvg-logo="http://lh5.ggpht.com/CNdzuL409UVetbWO7YB7-0iZRto1vesw8IV3P6Q99YVRfMUScLW5UER-ztjlddsKtiQ3" group-title="Media TV || Plus",HISPANTV | HD
 https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1662784346_b644100_slen.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/uXUOUbI.png" group-title="Media TV || Plus",La 2 (SD)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Canal24htvelep.png" group-title="Media TV || Plus",24H (SD) (España)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=400000.m3u8
 
 
 #EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/he2I1tUvFo0f5J8BXPeEVCiBKTSqIn-6XICkb-RuWTMfJWXr0AGAdswLwQmMtUcq2xg=h310" group-title="Media TV || Plus",Up! TV | HD

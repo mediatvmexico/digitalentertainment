@@ -38,9 +38,6 @@ http://bit.ly/toplatinohd_x_mediatvmexico
 #EXTINF:-1 type="stream" tvg-logo="http://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="Media TV || Plus",Music | PortalFoxMix | SD-HD
 http://bit.ly/portalfoxmixhd_x_mediatvmexico
 
-#EXTINF:-1 type="stream" tvg-logo="http://fmhot.cl/wp-content/uploads/2014/09/noimagen.png" group-title="Media TV || Plus",FM Hot | Peliculas | HD
-http://bit.ly/fmhothd_x_mediatvmexico
-
 #EXTINF:-1 type="stream" tvg-logo="http://www.tctelevision.com/sites/default/files/TClider.png" group-title="Media TV || Plus",TeleCentro || HD || Ecuador
 http://bit.ly/telecentrohd_x_mediatvmexico
 
@@ -62,3 +59,22 @@ http://bit.ly/teleredhd_x_mediatvmexico
 
 #EXTINF: -1 tvg-logo = "http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png", ==== Media TV || Gold ==== ========================================== ================
 #EXTBG: #008080
+
+#EXTINF:-1 type="stream" tvg-logo="http://vertele.eldiario.es/files/2015/12/hit-tv-veinte.jpg" group-title="Media TV || Plus",HIT TV SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://vertele.eldiario.es/files/2015/12/hit-tv-veinte.jpg" group-title="Media TV || Plus",HIT TV HD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4a/ForoTV_HD_2016.png/revision/latest/scale-to-width-down/200?cb=20160315021422" group-title="Media TV || Plus",Foro TV | SD
+https://d15ugbn6wle9p3.cloudfront.net/out/u/forotv-anvato_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/4/4a/ForoTV_HD_2016.png/revision/latest/scale-to-width-down/200?cb=20160315021422" group-title="Media TV || Plus",Foro TV | HD
+https://d15ugbn6wle9p3.cloudfront.net/out/u/forotv-anvato_5.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Canal24htvelep.png" group-title="Media TV || Plus",24H (SD) (España)
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" group-title="Media TV || Plus",LIFE TV (S4)
+http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8

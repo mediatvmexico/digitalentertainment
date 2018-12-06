@@ -102,7 +102,7 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 #EXTINF:-1 type="stream" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_79707.png" group-title="TV",SONY
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/b0/Distrito.png/revision/latest?cb=20160812222827" group-title="TV",DISTRITO COMEDIA
+#EXTINF:-1 type="stream" tvg-logo="http://forounivers.com/uploads/monthly_2018_10/small.Distrito_comedia2018.png.e61ce4b5973811a85c3002c03a62b973.png" group-title="TV",DISTRITO COMEDIA
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="TV",FOX

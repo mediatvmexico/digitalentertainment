@@ -69,69 +69,89 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-b.m3u8?sd=
 #EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" group-title="Media TV || Plus",LIFE TV (S4)
 http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
 
+
 #EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ESPN
-http://ligatv.net:25461/live/angelitos/30102018/393.m3u8
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ESPN 3
-http://ligatv.net:25461/live/angelitos/30102018/395.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",A&E
-http://ligatv.net:25461/live/angelitos/30102018/131.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",AXN
-http://ligatv.net:25461/live/angelitos/30102018/132.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",HBO
-http://ligatv.net:25461/live/angelitos/30102018/201.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX
-http://ligatv.net:25461/live/angelitos/30102018/135.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",UNIVERSAL CHANNEL
-http://ligatv.net:25461/live/angelitos/30102018/147.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",WARNER CHANNEL
-http://ligatv.net:25461/live/angelitos/30102018/148.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",BOOMERANG
-http://ligatv.net:25461/live/angelitos/30102018/150.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISCOVERY KIDS
-http://ligatv.net:25461/live/angelitos/30102018/155.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISNEY CHANNEL
-http://ligatv.net:25461/live/angelitos/30102018/152.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NICK
-http://ligatv.net:25461/live/angelitos/30102018/157.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISCOVERY CHANNEL
-http://ligatv.net:25461/live/angelitos/30102018/163.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NAT GEO WILD
-http://ligatv.net:25461/live/angelitos/30102018/176.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",LAS ESTRELLAS
-http://ligatv.net:25461/live/angelitos/30102018/306.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",LAS ESTRELLAS 2
-http://ligatv.net:25461/live/angelitos/30102018/126.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISTRITO COMEDIA
-http://ligatv.net:25461/live/angelitos/30102018/317.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ANIMAL PLANET
-http://ligatv.net:25461/live/angelitos/30102018/362.m3u8
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX SPORTS
-http://ligatv.net:25461/live/angelitos/30102018/232.m3u8
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX SPORTS 2
-http://ligatv.net:25461/live/angelitos/30102018/233.m3u8
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",CINEMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",TNT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",A&E
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="" group-title="TV",SONY
-http://ligatv.net:25461/live/angelitos/30102018/142.m3u8
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NICK JR
-http://ligatv.net:25461/live/angelitos/30102018/159.m3u8
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISTRITO COMEDIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",TLNOVELAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",UNIVERSAL CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",WARNER CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISCOVERY KIDS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISNEY JUNIOR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISNEY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ANIMAL PLANET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISCOVERY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",HISTORY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NATIONAL GEOGRAPHIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NAT GEO WILD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",CNN EN ESPAÑOL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",TELEHIT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8

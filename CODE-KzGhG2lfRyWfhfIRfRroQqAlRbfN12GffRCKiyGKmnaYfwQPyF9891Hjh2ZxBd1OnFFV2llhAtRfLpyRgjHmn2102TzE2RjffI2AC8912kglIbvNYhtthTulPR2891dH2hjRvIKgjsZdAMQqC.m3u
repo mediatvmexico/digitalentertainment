@@ -70,88 +70,88 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-b.m3u8?sd=
 http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ESPN
+#EXTINF:-1 type="stream" tvg-logo="http://famfonts.com/wp-content/uploads/espn-wide.png" group-title="TV",ESPN
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ESPN 2
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="TV",ESPN 2
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ESPN 3
+#EXTINF:-1 type="stream" tvg-logo="http://www.maxxsouth.com/wp-content/uploads/2016/03/logo-espn3.png" group-title="TV",ESPN 3
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX SPORTS
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title="TV",FOX SPORTS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX SPORTS 2
+#EXTINF:-1 type="stream" tvg-logo="http://i.imgur.com/7G8sksK.png" group-title="TV",FOX SPORTS 2
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",AMC
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/8/84/AMC_HD.png/revision/latest?cb=20140901200608" group-title="TV",AMC
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",CINEMAX
+#EXTINF:-1 type="stream" tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/10/cinemax__131007164113.png" group-title="TV",CINEMAX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",TNT
+#EXTINF:-1 type="stream" tvg-logo="http://2.bp.blogspot.com/-rAHjeQQtftE/UyPJ_1IZTcI/AAAAAAAAD98/5qRVEIGGU4A/s1600/tnt+hd+online.png" group-title="TV",TNT
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",A&E
+#EXTINF:-1 type="stream" tvg-logo="http://pmcdeadline2.files.wordpress.com/2014/04/ae-logo1__140401162031.png" group-title="TV",A&E
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",SONY
+#EXTINF:-1 type="stream" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_79707.png" group-title="TV",SONY
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISTRITO COMEDIA
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/b0/Distrito.png/revision/latest?cb=20160812222827" group-title="TV",DISTRITO COMEDIA
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",FOX
+#EXTINF:-1 type="stream" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" group-title="TV",FOX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",TLNOVELAS
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/6/62/TLNovelas_2011.png/revision/latest?cb=20130903004018&path-prefix=es" group-title="TV",TLNOVELAS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",UNICABLE
+#EXTINF:-1 type="stream" tvg-logo="http://www.tvapaxtla.com/wp-content/uploads/2018/05/unicable.png" group-title="TV",UNICABLE
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",UNIVERSAL CHANNEL
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/d/df/Universal_Channel_HD_2013.png/revision/latest?cb=20140429101043" group-title="TV",UNIVERSAL CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",WARNER CHANNEL
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/doblaje/images/c/c2/Warner-azul.png/revision/latest?cb=20170707053133&path-prefix=es" group-title="TV",WARNER CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISCOVERY KIDS
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png/revision/latest?cb=20140922200137" group-title="TV",DISCOVERY KIDS
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISNEY JUNIOR
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/the7d/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20150720210351" group-title="TV",DISNEY JUNIOR
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISNEY CHANNEL
+#EXTINF:-1 type="stream" tvg-logo="http://www.bestcg.com/wp/wp-content/uploads/disney-channel-logo-455x203.png" group-title="TV",DISNEY CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",ANIMAL PLANET
+#EXTINF:-1 type="stream" tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="TV",ANIMAL PLANET
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",DISCOVERY CHANNEL
+#EXTINF:-1 type="stream" tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/08/disc-20-600x507.png" group-title="TV",DISCOVERY CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",HISTORY
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/tvcable/images/f/f5/History_2015.png/revision/latest?cb=20160224233424&path-prefix=es" group-title="TV",HISTORY CHANNEL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NATIONAL GEOGRAPHIC
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logosfake/images/d/d4/National_Geographic_Channel_HD.png/revision/latest?cb=20140414204644" group-title="TV",NATIONAL GEOGRAPHIC
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",NAT GEO WILD
+#EXTINF:-1 type="stream" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="TV",NAT GEO WILD
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",CNN EN ESPAÑOL
+#EXTINF:-1 type="stream" tvg-logo="http://puu.sh/momMK/a1f10ea8a4.png" group-title="TV",CNN EN ESPAÑOL
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",BANDAMAX
+#EXTINF:-1 type="stream" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest?cb=20150806182241" group-title="TV",BANDAMAX
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",TELEHIT
+#EXTINF:-1 type="stream" tvg-logo="http://2.bp.blogspot.com/-QU_BXcH1T1o/UJhSqN_BhfI/AAAAAAAAXFM/dRO6Sl5DKqM/s1600/TELEHIt-2012.png" group-title="TV",TELEHIT
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8

@@ -70,6 +70,9 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-b.m3u8?sd=
 http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
 
 
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/claro205.jpg" group-title="TV",CLARO SPORTS
+http://38.18.238.34:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
 #EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox_deportes.png" group-title="TV",FOX SPORTS
 http://38.18.238.34:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
@@ -86,8 +89,15 @@ http://38.18.238.34:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 http://38.18.238.34:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-2.png" group-title="TV",LAS ESTRELLAS
+http://38.18.238.20:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
 #EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="TV",CANAL 5
 http://38.18.238.20:2095/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-13-en-vivo.jpg" group-title="TV",AZTECA UNO
+http://38.18.238.20:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
 
 #EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tnt-america-latina-en-vivo-205x205.png" group-title="TV",TNT
 http://38.18.238.20:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8

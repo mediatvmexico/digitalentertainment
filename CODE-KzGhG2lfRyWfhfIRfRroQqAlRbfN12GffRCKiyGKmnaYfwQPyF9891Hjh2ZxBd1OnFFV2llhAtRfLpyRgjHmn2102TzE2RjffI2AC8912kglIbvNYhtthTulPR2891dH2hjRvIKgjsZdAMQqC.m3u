@@ -1,4 +1,104 @@
 #EXTM3U
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-13-en-vivo.jpg" group-title="TV",AZTECA UNO
+http://38.18.238.20:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://vexi.mx/assets/images/medios/adn40.png" group-title="TV",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-2.png" group-title="TV",LAS ESTRELLAS
+http://stream.tvpor-internet.net/manifest/02/estrellas_latam.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-2.png" group-title="TV",LAS ESTRELLAS 2
+http://38.18.238.20:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="TV",CANAL 5
+http://stream.tvpor-internet.net/manifest/04/canal-cinco.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="TV",CANAL 5 - 2
+http://38.18.238.20:2095/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/foro.png" group-title="TV",FORO TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/bein.jpg" group-title="TV",BEIN SPORTS
+http://stream.tvpor-internet.net/manifest/04/bein-n-sports.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/directv.jpg" group-title="TV",DIRECTV
+http://stream.tvpor-internet.net/manifest/04/directv.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-3.png" group-title="TV",FOX SPORTS 3
+http://stream.tvpor-internet.net/manifest/01/f0xsports3.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-en-vivo-205x205.png" group-title="TV",ESPN
+http://stream.tvpor-internet.net/manifest/01/espn.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" group-title="TV",ESPN 3
+http://stream.tvpor-internet.net/manifest/06/espn3.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="TV",ESPN +
+http://stream.tvpor-internet.net/manifest/06/espn_plus.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/univision_tdn.png" group-title="TV",UNIVISION TDN
+http://stream.tvpor-internet.net/manifest/04/univision-tdn.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/amc.jpg" group-title="TV",AMC
+http://stream.tvpor-internet.net/manifest/06/amc.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/cinemax-en-vivo.png" group-title="TV",CINEMAX
+http://stream.tvpor-internet.net/manifest/03/c1nemax.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/hbo.png" group-title="TV",HBO
+http://stream.tvpor-internet.net/manifest/06/hb0hd.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/hbofam.jpg" group-title="TV",HBO FAMILY
+http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/space-en-vivo.png" group-title="TV",SPACE
+http://stream.tvpor-internet.net/manifest/03/space.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tnt-america-latina-en-vivo-205x205.png" group-title="TV",TNT
+http://stream.tvpor-internet.net/manifest/03/tnt.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tnt-america-latina-en-vivo-205x205.png" group-title="TV",TNT 2
+http://38.18.238.20:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/aande.jpg" group-title="TV",A&E
+http://stream.tvpor-internet.net/manifest/02/aehd.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox1.jpg" group-title="TV",FOX
+http://stream.tvpor-internet.net/manifest/02/f0x.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/foxlife.jpg" group-title="TV",FOX LIFE
+http://23.237.29.98:2095/209FoxLife/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/universalchannel.jpg" group-title="TV",UNIVERSAL CHANNEL
+http://38.18.238.20:2095/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/dkids.jpg" group-title="TV",DISCOVERY KIDS
+http://stream.tvpor-internet.net/manifest/06/disc_kids.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/djunior.jpg" group-title="TV",DISNEY JUNIOR
+http://23.237.29.98:2095/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/disneychannel1.jpg" group-title="TV",DISNEY CHANNEL
+http://stream.tvpor-internet.net/manifest/03/d1sney.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.grupotvcable.com.mx/canales/animal.png" group-title="TV",ANIMAL PLANET
+http://stream.tvpor-internet.net/manifest/01/anim_planet.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/discovery.png" group-title="TV",DISCOVERY CHANNEL
+http://stream.tvpor-internet.net/manifest/01/disc_ch.m3u8
+
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="TV",CARACOL
+http://stream.tvpor-internet.net/manifest/05/caracol.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.radiourbanasf.com.ar/wp-content/uploads/2016/01/logoVivo-1.png" ,==== Media TV || Plus ==== =============================================================
 #EXTBG: #008080
 
@@ -68,71 +168,6 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/index_1500_av-b.m3u8?sd=
 
 #EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/27077f_21df71d53465489cbb32acc9f9dd83e0~mv2_d_2000_2000_s_2.png" group-title="Media TV || Plus",LIFE TV (S4)
 http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/claro205.jpg" group-title="TV",CLARO SPORTS
-http://38.18.238.34:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox_deportes.png" group-title="TV",FOX SPORTS
-http://38.18.238.34:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-2.jpg" group-title="TV",FOX SPORTS 2
-http://38.18.238.34:2095/503FoxSport2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox-sports-3.png" group-title="TV",FOX SPORTS 3
-http://38.18.238.34:2095/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-en-vivo-205x205.png" group-title="TV",ESPN
-http://38.18.238.34:2095/505ESPN/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" group-title="TV",ESPN 2
-http://38.18.238.34:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-2.png" group-title="TV",LAS ESTRELLAS
-http://38.18.238.20:2095/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="TV",CANAL 5
-http://38.18.238.20:2095/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-13-en-vivo.jpg" group-title="TV",AZTECA UNO
-http://38.18.238.20:2095/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/tnt-america-latina-en-vivo-205x205.png" group-title="TV",TNT
-http://38.18.238.20:2095/602TNT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/universalchannel.jpg" group-title="TV",UNIVERSAL CHANNEL
-http://38.18.238.20:2095/203Universal/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="TV",WARNER CHANNEL
-http://23.139.96.4:2095/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/fox1.jpg" group-title="TV",FOX
-http://38.18.238.34:2095/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/hbofam.jpg" group-title="TV",HBO FAMILY
-http://23.237.29.98:2095/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/history.jpg" group-title="TV",HISTORY
-http://23.139.96.4:2095/409history/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/discovery.png" group-title="TV",DISCOVERY CHANNEL
-http://23.139.96.4:2095/402discoverychannel/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/dkids.jpg" group-title="TV",DISCOVERY KIDS
-http://23.139.96.4:2095/310discoverykids/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/djunior.jpg" group-title="TV",DISNEY JUNIOR
-http://23.237.29.98:2095/303DisneyJunior/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/nick205.png" group-title="TV",NICKELODEON
-http://23.139.96.4:2095/305nickelodeon/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
-
-#EXTINF:-1 type="stream" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/disneychannel1.jpg" group-title="TV",DISNEY CHANNEL
-http://23.139.96.4:2095/302Disneychannel/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/xxl/1/7/3/173019/Foro_TV_97fbd_450x450.png" group-title="MEXICO",Foro TV | SD

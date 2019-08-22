@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/d7d50e346400ef1ce2349c0845cf0072.jpg" group-title="PRINCIPALES",Toy Story 1
+https://stream74.uqload.com/3rfkr763e5w2q4drdjc7hn5ydmz4suaa2fvsrbuuklftapqdxhrqwwxyqcmq/v.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/bf75e43b3764783a4d2c344cb3a9a69e.jpg" group-title="PRINCIPALES",Toy Story 2
+https://stream162.uqload.com/3rfke3w4e5w2q4drdjc7hivel6z6udr2v763w3olseywrjxp7lwbotnlrhea/v.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/76d858122ca5f371ce6e0759a31853d0.jpg" group-title="PRINCIPALES",Toy Story 3
+https://stream214.uqload.com/3rfkfo7fe5w2q4drdjc7h5xtkliwza7ewbsmeuqaaab5772pg5dwe3p264na/v.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/5caf69ff73b408f808a84c19f106da6f.jpg" group-title="PRINCIPALES",Toy Story 4
+https://stream78.uqload.com/3rfk2belffw2q4drdl47h77vbqzfncelpl44gpeyh44jurcbltvnjcj7vvia/v.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/783b6432a00d39220c1025f4a8d9ce09.jpg" group-title="PRINCIPALES",Toy Story - Olvidados En El Tiempo
+https://www1857.hlsmp4.com/token=jrciOJ_-NxicFlY9cSXQXw/1566510040/0.0.0.0/18/a/19/2458f7daf1f1039653c7183fc3f1c19a-720p.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/a6f4f7f238fa3a06ec75a3a0b98ac362.jpg" group-title="PRINCIPALES",Toy Story De Terror
+https://stream214.uqload.com/3rfkedetezw2q4drdi77hiptbr2p54qnql42qyvs5nf24jw7uieoqegfxcga/v.mp4
+
+
 #EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/f5a7a895e22eb344c2991c30a3a9e431.jpg" group-title="PRINCIPALES",Yo Antes De Ti
 https://www1810.hlsmp4.com/token=2IB-nYGBsOq-HZG1fbP12g/1566447647/0.0.0.0/17/0/2b/986c3fa5380200996d14c886961902b0-720p.mp4
 

@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/f5a7a895e22eb344c2991c30a3a9e431.jpg" group-title="PRINCIPALES",Yo Antes De Ti
+https://www1810.hlsmp4.com/token=2IB-nYGBsOq-HZG1fbP12g/1566447647/0.0.0.0/17/0/2b/986c3fa5380200996d14c886961902b0-720p.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/b827483e294509ac352b4294f1a41237.jpg" group-title="PRINCIPALES",La Verdad Oculta
+https://www411.hlsmp4.com/token=81AT_pCGFrNhTYuCE8PmGQ/1566455035/0.0.0.0/5/6/51/1bec18aa44204cc3a79349224aae0516-720p.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/5de7833fc53efaddc0eadb261a362d04.jpg" group-title="PRINCIPALES",Lucy
+https://stream162.uqload.com/3rfknl7mfzw2q4drdljphkvpdoqsdfsqrjvieouog6qi2n3dspkqzhtnt3qq/v.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/930b738a377949907c3e3568e8981c75.jpg" group-title="PRINCIPALES",Drunk Parents
+https://www1911.hlsmp4.com/token=SIfYTIMGqRzI9W-GCsFfog/1566455643/0.0.0.0/61/9/a6/9a9be18c5009e217d2479db3c0ccaa69-720p.mp4
+
+#EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/739a7632bfbe7274829d91d5b237adb8.jpg" group-title="PRINCIPALES",Un Lugar Llamado Notingh Hill
+https://www305.hlsmp4.com/token=-yXE5pg1_Gd7ysBjnzljBQ/1566455954/0.0.0.0/60/2/fb/c1ce79b80931375ccbb59b071a605fb2-480p.mp4
+
+
 #EXTINF:-1 type="stream" tvg-logo="http://www.mundoplus.tv/img/56cb0234e9bb92ca92a30677185829c5" group-title="PRINCIPALES",24H | SD
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0400_av-p.m3u8?sd=10&rebase=on
 

@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 type="stream" tvg-logo="" group-title="PRINCIPALES",Canal 5
+https://vsd0.mycdn.me/dash/stream_555857152580/stream.manifest/sig/88jgaSW9VAY/expires/1566668630815/srcIp/187.189.61.209/clientType/0/srcAg/CHROME/frag-low-10854766.dash
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="PRINCIPALES",Canal 5
+https://vsd0.mycdn.me/dash/stream_555857152580/stream.manifest/sig/jMRz8xcgSxU/expires/1566669129828/srcIp/187.189.61.209/clientType/0/srcAg/CHROME/stream-medium.jidx?_rnd=263986297
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="PRINCIPALES",Canal 5
+https://vsd0.mycdn.me/dash/stream_555857152580/stream.manifest/sig/jMRz8xcgSxU/expires/1566669129828/srcIp/187.189.61.209/clientType/0/srcAg/CHROME/frag-medium-13118232.dash
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="PRINCIPALES",Canal 5
+https://vsd0.mycdn.me/dash/stream_555857152580/stream.manifest/sig/jMRz8xcgSxU/expires/1566669129828/srcIp/187.189.61.209/clientType/0/srcAg/CHROME/frag-low-12997411.dash
+
+#EXTINF:-1 type="stream" tvg-logo="" group-title="PRINCIPALES",Canal 5
+https://vsd0.mycdn.me/dash/stream_555857152580/stream.manifest/sig/jMRz8xcgSxU/expires/1566669129828/srcIp/187.189.61.209/clientType/0/srcAg/CHROME/stream-low.jidx?_rnd=130340992
+
+
 #EXTINF:-1 type="stream" tvg-logo="http://static.pelisplus.co/movie/cover/original/d7d50e346400ef1ce2349c0845cf0072.jpg" group-title="PRINCIPALES",Toy Story 1
 https://stream74.uqload.com/3rfkr763e5w2q4drdjc7hn5ydmz4suaa2fvsrbuuklftapqdxhrqwwxyqcmq/v.mp4
 
